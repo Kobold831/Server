@@ -44,6 +44,6 @@ echo 続行したあと、EnableGPlayWithPCは自動起動します。
 echo.
 echo 続行するには何かキーを押してください．．．
 pause > NUL
-start EnableGPlayWithPC.exe
+start ダブルクリックして起動.bat
 del /f "%~dp0%~nx0"
 exit
