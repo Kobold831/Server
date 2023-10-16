@@ -27,7 +27,7 @@ powershell -NoProfile -ExecutionPolicy Unrestricted Expand-Archive -Path update.
 exit /b
 
 :tryCopy
-xcopy /e /y EnableGPlayWithPC .."\.."\
+xcopy /e /y EnableGPlayWithPC .\
 echo.
 exit /b
 
