@@ -1,0 +1,44 @@
+{
+  "ct": {
+    "update": {
+      "versionCode": 39,
+      "versionName": "1.6.0",
+      "url": "https://github.com/Kobold831/CPadCustomizeTool/releases/download/Ver.1.6.0/app-release_1.6.0.apk",
+      "description": "不具合の修正をおこないました"
+    },
+    "support": {
+      "supportCode": 0
+    },
+    "appList": [
+      {
+        "name": "あ",
+        "url": "http://192.168.1.2/test/ct/apk/app-1.apk",
+        "description": "テスト"
+      },
+      {
+        "name": "い",
+        "url": "http://192.168.1.2/test/ct/apk/app-2.apk",
+        "description": "テスト"
+      }
+    ]
+  },
+  "as": {
+    "update": {
+      "versionCode": 9,
+      "versionName": "1.3.0",
+      "url": "https://github.com/Kobold831/AuroraStore4/releases/download/Ver.1.3.0/app-release_1.3.0.apk",
+      "description": "最新のプログラムを適用しました\n  不具合の修正を行いました"
+    },
+    "support": {
+      "supportCode": 0
+    }
+  },
+  "egp": {
+    "update": {
+      "versionName": "1.2.2.0",
+      "zipUrl": "http://192.168.1.2/test/egp/update/update.zip",
+      "batUrl": "http://192.168.1.2/test/egp/update/updater.bat",
+      "description": "\"テスト\""
+    }
+  }
+}
