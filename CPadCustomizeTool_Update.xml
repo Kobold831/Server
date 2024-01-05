@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <update>
-  <versionCode>39</versionCode>
-  <versionName>1.6.0</versionName>
-  <url>https://github.com/Kobold831/CPadCustomizeTool/releases/download/Ver.1.6.0/app-release_1.6.0.apk</url>
-  <description> 不具合の修正をおこないました</description>
+  <versionCode>40</versionCode>
+  <versionName>1.7.0</versionName>
+  <url>https://github.com/Kobold831/CPadCustomizeTool/releases/download/Ver.1.7.0/app-release.apk</url>
+  <description> 不具合の修正をおこないました。サポートチェック機能を削除しました。CTabLabo活動終了に伴いURLや文言を変更しました。</description>
 </update>
