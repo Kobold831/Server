@@ -1,65 +1,70 @@
 @echo off
 
-echo ƒAƒbƒvƒf[ƒgƒtƒ@ƒCƒ‹‚ðŠm”F‚µ‚Ä‚¢‚Ü‚·DDD
+echo ã‚¢ãƒƒãƒ—ãƒ‡ãƒ¼ãƒˆãƒ•ã‚¡ã‚¤ãƒ«ã‚’ç¢ºèªã—ã¦ã„ã¾ã™ï¼Žï¼Žï¼Ž
 
 if exist update.zip (
-	echo DDDOK
+	echo ï¼Žï¼Žï¼ŽOK
 	echo.
-	echo ƒAƒbƒvƒf[ƒgƒtƒ@ƒCƒ‹‚ð‰ð“€‚µ‚Ä‚¢‚Ü‚·DDD
+	echo ã‚¢ãƒƒãƒ—ãƒ‡ãƒ¼ãƒˆãƒ•ã‚¡ã‚¤ãƒ«ã‚’è§£å‡ã—ã¦ã„ã¾ã™ï¼Žï¼Žï¼Ž
 	echo.
 	call:tryUnzip
-	echo ƒAƒbƒvƒf[ƒgƒtƒ@ƒCƒ‹‚ðƒRƒs[‚µ‚Ä‚¢‚Ü‚·DDD
+	echo ã‚¢ãƒƒãƒ—ãƒ‡ãƒ¼ãƒˆãƒ•ã‚¡ã‚¤ãƒ«ã‚’ã‚³ãƒ”ãƒ¼ã—ã¦ã„ã¾ã™ï¼Žï¼Žï¼Ž
 	echo.
 	call:tryCopy
-	echo ˆêŽžƒtƒ@ƒCƒ‹‚ðíœ‚µ‚Ä‚¢‚Ü‚·DDD
+	echo ä¸€æ™‚ãƒ•ã‚¡ã‚¤ãƒ«ã‚’å‰Šé™¤ã—ã¦ã„ã¾ã™ï¼Žï¼Žï¼Ž
 	echo.
 	call:tryDelTmp
 	call:success
 ) else (
-	echo DDDNG
+	echo ï¼Žï¼Žï¼ŽNG
 	echo.
-	echo ƒGƒ‰[‚ª”­¶‚µ‚½‚½‚ßƒAƒbƒvƒf[ƒ^‚ðI—¹‚µ‚Ü‚·B
+	echo ã‚¨ãƒ©ãƒ¼ãŒç™ºç”Ÿã—ãŸãŸã‚ã‚¢ãƒƒãƒ—ãƒ‡ãƒ¼ã‚¿ã‚’çµ‚äº†ã—ã¾ã™ã€‚
 	call:failure
 )
 
 :tryUnzip
-powershell -NoProfile -ExecutionPolicy Unrestricted Expand-Archive -Path update.zip -DestinationPath ./EnableGPlayWithPC\ -Force
+powershell -NoProfile -ExecutionPolicy Unrestricted Expand-Archive -Path update.zip -DestinationPath ./update\ -Force
 exit /b
 
 :tryCopy
-xcopy /e /y EnableGPlayWithPC .\
+xcopy /e /y update .\
 echo.
 exit /b
 
 :tryDelTmp
+del /s /q ãƒ€ãƒ–ãƒ«ã‚¯ãƒªãƒƒã‚¯ã—ã¦èµ·å‹•.bat
+del /s /q Check.json
 del /s /q update.zip
-rd /s /q EnableGPlayWithPC
+rmdir /s /q update
+rmdir /s /q bin
 exit /b
 
 :success
 echo.
-echo ƒAƒbƒvƒf[ƒ^‚Í³í‚ÉI—¹‚µ‚Ü‚µ‚½B
+echo ã‚¢ãƒƒãƒ—ãƒ‡ãƒ¼ã‚¿ã¯æ­£å¸¸ã«çµ‚äº†ã—ã¾ã—ãŸã€‚
 echo.
-echo ‘±s‚µ‚½‚ ‚ÆAEnableGPlayWithPC‚ÍŽ©“®‹N“®‚µ‚Ü‚·B
+echo ç¶šè¡Œã—ãŸã‚ã¨ã€EnableGPlayWithPCã¯è‡ªå‹•èµ·å‹•ã—ã¾ã™ã€‚
 echo.
 for /l %%a in (5,-1,1) do (
-  echo ‘±s‚·‚é‚É‚Í‰½‚©ƒL[‚ð‰Ÿ‚µ‚Ä‚­‚¾‚³‚¢DDD“®ì‚ª‚È‚¢ê‡%%a•bŒã‚ÉŽ©“®‹N“®‚µ‚Ü‚·DDD
+  echo ç¶šè¡Œã™ã‚‹ã«ã¯ä½•ã‹ã‚­ãƒ¼ã‚’æŠ¼ã—ã¦ãã ã•ã„ï¼Žï¼Žï¼Žå‹•ä½œãŒãªã„å ´åˆ%%aç§’å¾Œã«è‡ªå‹•èµ·å‹•ã—ã¾ã™ï¼Žï¼Žï¼Ž
   timeout /t 1 > nul
 )
-start bin\ILMerge\EnableGPlayWithPC.exe
+cd ILMerge\
+start EnableGPlayWithPC.exe
 del /f "%~dp0%~nx0"
 exit
 
 :failure
 echo.
-echo ƒAƒbƒvƒf[ƒ^‚ÍƒGƒ‰[‚ÅI—¹‚µ‚Ü‚µ‚½B
+echo ã‚¢ãƒƒãƒ—ãƒ‡ãƒ¼ã‚¿ã¯ã‚¨ãƒ©ãƒ¼ã§çµ‚äº†ã—ã¾ã—ãŸã€‚
 echo.
-echo ‘±s‚µ‚½‚ ‚ÆAEnableGPlayWithPC‚ÍŽ©“®‹N“®‚µ‚Ü‚·B
+echo ç¶šè¡Œã—ãŸã‚ã¨ã€EnableGPlayWithPCã¯è‡ªå‹•èµ·å‹•ã—ã¾ã™ã€‚
 echo.
 for /l %%a in (5,-1,1) do (
-  echo ‘±s‚·‚é‚É‚Í‰½‚©ƒL[‚ð‰Ÿ‚µ‚Ä‚­‚¾‚³‚¢DDD“®ì‚ª‚È‚¢ê‡%%a•bŒã‚ÉŽ©“®‹N“®‚µ‚Ü‚·DDD
+  echo ç¶šè¡Œã™ã‚‹ã«ã¯ä½•ã‹ã‚­ãƒ¼ã‚’æŠ¼ã—ã¦ãã ã•ã„ï¼Žï¼Žï¼Žå‹•ä½œãŒãªã„å ´åˆ%%aç§’å¾Œã«è‡ªå‹•èµ·å‹•ã—ã¾ã™ï¼Žï¼Žï¼Ž
   timeout /t 1 > nul
 )
-start bin\ILMerge\EnableGPlayWithPC.exe
+cd ILMerge\
+start EnableGPlayWithPC.exe
 del /f "%~dp0%~nx0"
 exit
