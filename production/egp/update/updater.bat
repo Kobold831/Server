@@ -23,17 +23,17 @@ if exist update.zip (
 )
 
 :tryUnzip
-powershell -NoProfile -ExecutionPolicy Unrestricted Expand-Archive -Path update.zip -DestinationPath ./update\ -Force
+powershell -NoProfile -ExecutionPolicy Unrestricted Expand-Archive -Path update.zip -DestinationPath ./EnableGPlayWithPC\ -Force
 exit /b
 
 :tryCopy
-xcopy /e /y update ..\
+xcopy /e /y EnableGPlayWithPC .\
 echo.
 exit /b
 
 :tryDelTmp
 del /s /q update.zip
-rmdir /s /q update
+rd /s /q EnableGPlayWithPC
 exit /b
 
 :success
@@ -46,7 +46,7 @@ for /l %%a in (5,-1,1) do (
   echo 続行するには何かキーを押してください．．．動作がない場合%%a秒後に自動起動します．．．
   timeout /t 1 > nul
 )
-start EnableGPlayWithPC.exe
+start bin\ILMerge\EnableGPlayWithPC.exe
 del /f "%~dp0%~nx0"
 exit
 
@@ -60,6 +60,6 @@ for /l %%a in (5,-1,1) do (
   echo 続行するには何かキーを押してください．．．動作がない場合%%a秒後に自動起動します．．．
   timeout /t 1 > nul
 )
-start EnableGPlayWithPC.exe
+start bin\ILMerge\EnableGPlayWithPC.exe
 del /f "%~dp0%~nx0"
 exit
