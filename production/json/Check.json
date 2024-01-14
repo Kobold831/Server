@@ -36,7 +36,7 @@
   "egp": {
     "update": {
       "versionName": "1.2.3.0",
-      "zipUrl": "https://drive.google.com/uc?id=1TpoUzxpshhr7mFDoYffArNWFo9tCWsBD&export=download&confirm=t",
+      "zipUrl": "https://drive.google.com/uc?export=download&id=1TpoUzxpshhr7mFDoYffArNWFo9tCWsBD",
       "batUrl": "https://raw.githubusercontent.com/Kobold831/Server/main/production/egp/update/updater.bat",
       "description": "不具合の修正を行いました\r\nCTZ(NEXT)の処理を変更しました"
     }
