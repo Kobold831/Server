@@ -1,24 +1,24 @@
 @echo off
 
-echo ã‚¢ãƒƒãƒ—ãƒ‡ãƒ¼ãƒˆãƒ•ã‚¡ã‚¤ãƒ«ã‚’ç¢ºèªã—ã¦ã„ã¾ã™ï¼Žï¼Žï¼Ž
+echo ƒAƒbƒvƒf[ƒgƒtƒ@ƒCƒ‹‚ðŠm”F‚µ‚Ä‚¢‚Ü‚·DDD
 
 if exist update.zip (
-	echo ï¼Žï¼Žï¼ŽOK
+	echo DDDOK
 	echo.
-	echo ã‚¢ãƒƒãƒ—ãƒ‡ãƒ¼ãƒˆãƒ•ã‚¡ã‚¤ãƒ«ã‚’è§£å‡ã—ã¦ã„ã¾ã™ï¼Žï¼Žï¼Ž
+	echo ƒAƒbƒvƒf[ƒgƒtƒ@ƒCƒ‹‚ð‰ð“€‚µ‚Ä‚¢‚Ü‚·DDD
 	echo.
 	call:tryUnzip
-	echo ã‚¢ãƒƒãƒ—ãƒ‡ãƒ¼ãƒˆãƒ•ã‚¡ã‚¤ãƒ«ã‚’ã‚³ãƒ”ãƒ¼ã—ã¦ã„ã¾ã™ï¼Žï¼Žï¼Ž
+	echo ƒAƒbƒvƒf[ƒgƒtƒ@ƒCƒ‹‚ðƒRƒs[‚µ‚Ä‚¢‚Ü‚·DDD
 	echo.
 	call:tryCopy
-	echo ä¸€æ™‚ãƒ•ã‚¡ã‚¤ãƒ«ã‚’å‰Šé™¤ã—ã¦ã„ã¾ã™ï¼Žï¼Žï¼Ž
+	echo ˆêŽžƒtƒ@ƒCƒ‹‚ðíœ‚µ‚Ä‚¢‚Ü‚·DDD
 	echo.
 	call:tryDelTmp
 	call:success
 ) else (
-	echo ï¼Žï¼Žï¼ŽNG
+	echo DDDNG
 	echo.
-	echo ã‚¨ãƒ©ãƒ¼ãŒç™ºç”Ÿã—ãŸãŸã‚ã‚¢ãƒƒãƒ—ãƒ‡ãƒ¼ã‚¿ã‚’çµ‚äº†ã—ã¾ã™ã€‚
+	echo ƒGƒ‰[‚ª”­¶‚µ‚½‚½‚ßƒAƒbƒvƒf[ƒ^‚ðI—¹‚µ‚Ü‚·B
 	call:failure
 )
 
@@ -32,7 +32,7 @@ echo.
 exit /b
 
 :tryDelTmp
-del /s /q ãƒ€ãƒ–ãƒ«ã‚¯ãƒªãƒƒã‚¯ã—ã¦èµ·å‹•.bat
+del /s /q ƒ_ƒuƒ‹ƒNƒŠƒbƒN‚µ‚Ä‹N“®.bat
 del /s /q Check.json
 del /s /q update.zip
 rmdir /s /q update
@@ -41,12 +41,12 @@ exit /b
 
 :success
 echo.
-echo ã‚¢ãƒƒãƒ—ãƒ‡ãƒ¼ã‚¿ã¯æ­£å¸¸ã«çµ‚äº†ã—ã¾ã—ãŸã€‚
+echo ƒAƒbƒvƒf[ƒ^‚Í³í‚ÉI—¹‚µ‚Ü‚µ‚½B
 echo.
-echo ç¶šè¡Œã—ãŸã‚ã¨ã€EnableGPlayWithPCã¯è‡ªå‹•èµ·å‹•ã—ã¾ã™ã€‚
+echo ‘±s‚µ‚½‚ ‚ÆAEnableGPlayWithPC‚ÍŽ©“®‹N“®‚µ‚Ü‚·B
 echo.
 for /l %%a in (5,-1,1) do (
-  echo ç¶šè¡Œã™ã‚‹ã«ã¯ä½•ã‹ã‚­ãƒ¼ã‚’æŠ¼ã—ã¦ãã ã•ã„ï¼Žï¼Žï¼Žå‹•ä½œãŒãªã„å ´åˆ%%aç§’å¾Œã«è‡ªå‹•èµ·å‹•ã—ã¾ã™ï¼Žï¼Žï¼Ž
+  echo ‘±s‚·‚é‚É‚Í‰½‚©ƒL[‚ð‰Ÿ‚µ‚Ä‚­‚¾‚³‚¢DDD“®ì‚ª‚È‚¢ê‡%%a•bŒã‚ÉŽ©“®‹N“®‚µ‚Ü‚·DDD
   timeout /t 1 > nul
 )
 cd ILMerge\
@@ -56,12 +56,12 @@ exit
 
 :failure
 echo.
-echo ã‚¢ãƒƒãƒ—ãƒ‡ãƒ¼ã‚¿ã¯ã‚¨ãƒ©ãƒ¼ã§çµ‚äº†ã—ã¾ã—ãŸã€‚
+echo ƒAƒbƒvƒf[ƒ^‚ÍƒGƒ‰[‚ÅI—¹‚µ‚Ü‚µ‚½B
 echo.
-echo ç¶šè¡Œã—ãŸã‚ã¨ã€EnableGPlayWithPCã¯è‡ªå‹•èµ·å‹•ã—ã¾ã™ã€‚
+echo ‘±s‚µ‚½‚ ‚ÆAEnableGPlayWithPC‚ÍŽ©“®‹N“®‚µ‚Ü‚·B
 echo.
 for /l %%a in (5,-1,1) do (
-  echo ç¶šè¡Œã™ã‚‹ã«ã¯ä½•ã‹ã‚­ãƒ¼ã‚’æŠ¼ã—ã¦ãã ã•ã„ï¼Žï¼Žï¼Žå‹•ä½œãŒãªã„å ´åˆ%%aç§’å¾Œã«è‡ªå‹•èµ·å‹•ã—ã¾ã™ï¼Žï¼Žï¼Ž
+  echo ‘±s‚·‚é‚É‚Í‰½‚©ƒL[‚ð‰Ÿ‚µ‚Ä‚­‚¾‚³‚¢DDD“®ì‚ª‚È‚¢ê‡%%a•bŒã‚ÉŽ©“®‹N“®‚µ‚Ü‚·DDD
   timeout /t 1 > nul
 )
 cd ILMerge\
