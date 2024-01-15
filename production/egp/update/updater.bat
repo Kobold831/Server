@@ -40,11 +40,8 @@ powershell -NoProfile -ExecutionPolicy Unrestricted Expand-Archive -Path update.
 exit /b
 
 :tryDelTmp
-del /s /q ダブルクリックして起動.bat
-del /s /q Check.json
 del /s /q update.zip
 rmdir /s /q update
-rmdir /s /q bin
 exit /b
 
 :success
