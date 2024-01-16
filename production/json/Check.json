@@ -35,10 +35,10 @@
   },
   "egp": {
     "update": {
-      "versionName": "1.2.3.0",
+      "versionName": "1.2.4.0",
       "zipUrl": "https://x.gd/dI9tQ",
       "batUrl": "https://raw.githubusercontent.com/Kobold831/Server/main/production/egp/update/updater.bat",
-      "description": "不具合の修正を行いました\r\nCTZ(NEXT)の処理を変更しました"
+      "description": "不具合の修正および複数の改善を行いました"
     }
   }
 }
