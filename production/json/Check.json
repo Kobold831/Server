@@ -24,6 +24,11 @@
         "name": "Files by Google",
         "url": "https://downloadr2.apkmirror.com/wp-content/uploads/2024/01/20/65a72e3e72095/com.google.android.apps.nbu.files_1.2263.598362647.0-release-695035_minAPI21(arm64-v8a)(nodpi)_apkmirror.com.apk?verify=1705751230--TX3OJlZiN3MQJXZKW1k9F9aDu36jOSQq-RAuPUpSIk",
         "description": "Googleのファイラーです"
+      },
+      {
+        "name": "URLを指定してインストール",
+        "url": "MYURL",
+        "description": "OKを押すと表示される画面でURLを入力してください\\n有効なURLおよびAPKであればインストールできます"
       }
     ]
   },
