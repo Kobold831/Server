@@ -1,10 +1,10 @@
 {
   "ct": {
     "update": {
-      "versionCode": 40,
-      "versionName": "1.7.0",
-      "url": "https://github.com/Kobold831/CPadCustomizeTool/releases/download/Ver.1.7.0/app-release.apk",
-      "description": "不具合の修正をおこないました。サポートチェック機能を削除しました。CTabLabo活動終了に伴いURLや文言を変更しました。"
+      "versionCode": 41,
+      "versionName": "1.8.0",
+      "url": "https://github.com/Kobold831/CPadCustomizeTool/releases/download/Ver.1.8.0/app-release_1.8.0.apk",
+      "description": "・Dhizukuを導入しました。・AIDLの修正をしました。・UIとテキストを修正しました。・多くの不具合を修正しました。・多くの改善をしました。・機能追加（アプリを取得）をしました。※最新バージョンに更新することをおすすめします！改良版AuroraStoreを利用している場合は必ずどちらも更新してください！※最新バージョンからDhizukuに対応しています。デバイスオーナーをDhizukuに再設定することをおすすめします。"
     },
     "support": {
       "supportCode": 0
@@ -22,13 +22,18 @@
       },
       {
         "name": "Files by Google",
-        "url": "https://downloadr2.apkmirror.com/wp-content/uploads/2024/01/20/65a72e3e72095/com.google.android.apps.nbu.files_1.2263.598362647.0-release-695035_minAPI21(arm64-v8a)(nodpi)_apkmirror.com.apk?verify=1705751230--TX3OJlZiN3MQJXZKW1k9F9aDu36jOSQq-RAuPUpSIk",
+        "url": "https://x.gd/gUvRa",
         "description": "Googleのファイラーです"
+      },
+      {
+        "name": "Dhizuku",
+        "url": "https://github.com/iamr0s/Dhizuku/releases/download/v2.8/Dhizuku_v2.8.apk",
+        "description": "Dhizkuはデバイスオーナーを共有できるアプリです。CPadCustomizeToolおよびAurora Store for CTXZはDhizukuを実装しました。デバイスオーナーをDhizukuに変更することをおすすめします。"
       },
       {
         "name": "URLを指定してインストール",
         "url": "MYURL",
-        "description": "OKを押すと表示される画面でURLを入力してください\\n有効なURLおよびAPKであればインストールできます"
+        "description": "OKを押すと表示される画面でURLを入力してください。有効なURLおよびAPKであればインストールできます"
       }
     ]
   },
