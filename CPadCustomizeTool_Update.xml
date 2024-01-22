@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <update>
-  <versionCode>40</versionCode>
-  <versionName>1.7.0</versionName>
-  <url>https://github.com/Kobold831/CPadCustomizeTool/releases/download/Ver.1.7.0/app-release.apk</url>
-  <description> 不具合の修正をおこないました。サポートチェック機能を削除しました。CTabLabo活動終了に伴いURLや文言を変更しました。</description>
+  <versionCode>41</versionCode>
+  <versionName>1.8.0</versionName>
+  <url>https://github.com/Kobold831/CPadCustomizeTool/releases/download/Ver.1.8.0/app-release_1.8.0.apk</url>
+  <description>警告！お使いのバージョンは古いためできるだけ速やかに更新してください！
+    Dhizukuを導入しました
+    AIDLの修正をしました
+    UIとテキストを修正しました
+    多くの不具合を修正しました
+    多くの改善をしました
+    機能追加（アプリを取得）をしました
+    ※最新バージョンに更新することをおすすめします！改良版AuroraStoreを利用している場合は必ずどちらも更新してください！
+    ※最新バージョンからDhizukuに対応しています。デバイスオーナーをDhizukuに再設定することをおすすめします。</description>
 </update>
