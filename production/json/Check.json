@@ -31,6 +31,11 @@
         "description": "Dhizkuはデバイスオーナーを共有できるアプリです。CPadCustomizeToolおよびAurora Store for CTXZはDhizukuを実装しました。デバイスオーナーをDhizukuに変更することをおすすめします。"
       },
       {
+        "name": "BypassRevokePermission",
+        "url": "https://cdn.discordapp.com/attachments/947114991973183528/1200450518078734407/app-release.apk",
+        "description": "dchaStateを0にしたままGooglePlayなどのアプリが使えるようにします\nインストール後に1度だけアプリを起動する必要があります"
+      },
+      {
         "name": "URLを指定してインストール",
         "url": "MYURL",
         "description": "OKを押すと表示される画面でURLを入力してください。有効なURLおよびAPKであればインストールできます"
