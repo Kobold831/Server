@@ -1,10 +1,10 @@
 {
   "ct": {
     "update": {
-      "versionCode": 41,
-      "versionName": "1.8.0",
-      "url": "https://github.com/Kobold831/CPadCustomizeTool/releases/download/Ver.1.8.0/app-release_1.8.0.apk",
-      "description": "・Dhizukuを導入しました。・AIDLの修正をしました。・UIとテキストを修正しました。・多くの不具合を修正しました。・多くの改善をしました。・機能追加（アプリを取得）をしました。※最新バージョンに更新することをおすすめします！改良版AuroraStoreを利用している場合は必ずどちらも更新してください！※最新バージョンからDhizukuに対応しています。デバイスオーナーをDhizukuに再設定することをおすすめします。"
+      "versionCode": 42,
+      "versionName": "2.0.0",
+      "url": "https://github.com/Kobold831/CPadCustomizeTool/releases/download/Ver.2.0.0/app-release_2.0.0.apk",
+      "description": "複数の機能を修正しました\n不具合の修正および安定性の向上をしました\n複数の改善をしました\nUIおよびユーザビリティの向上をしました\n\n※最新バージョンに更新することをおすすめします！改良版AuroraStoreを利用している場合は必ずどちらも更新してください！\n※最新バージョンからDhizukuに対応しています\nデバイスオーナーをDhizukuに再設定することをおすすめします"
     },
     "support": {
       "supportCode": 0
@@ -23,22 +23,22 @@
       {
         "name": "Files by Google",
         "url": "https://x.gd/gUvRa",
-        "description": "Googleのファイラーです"
+        "description": "Googleのファイラーです\nダウンロードに時間がかかる場合があります"
       },
       {
         "name": "Dhizuku",
         "url": "https://github.com/iamr0s/Dhizuku/releases/download/v2.8/Dhizuku_v2.8.apk",
-        "description": "Dhizkuはデバイスオーナーを共有できるアプリです。CPadCustomizeToolおよびAurora Store for CTXZはDhizukuを実装しました。デバイスオーナーをDhizukuに変更することをおすすめします。"
+        "description": "Dhizkuはデバイスオーナーを共有できるアプリです\nCPadCustomizeToolおよびAurora Store for CTXZはDhizukuを実装しました\nデバイスオーナーをDhizukuに変更することをおすすめします"
       },
       {
         "name": "BypassRevokePermission",
         "url": "https://cdn.discordapp.com/attachments/947114991973183528/1200450518078734407/app-release.apk",
-        "description": "dchaStateを0にしたままGooglePlayなどのアプリが使えるようにします\nインストール後に1度だけアプリを起動する必要があります"
+        "description": "dchaStateを0にしたままGooglePlayなどのアプリが使えるようにします\nインストール後に1度だけアプリを起動する必要があります\nチャレンジパッドNEXTのみ利用できます"
       },
       {
         "name": "URLを指定してインストール",
         "url": "MYURL",
-        "description": "OKを押すと表示される画面でURLを入力してください。有効なURLおよびAPKであればインストールできます"
+        "description": "OKを押すと表示される画面でURLを入力してください\n有効なURLおよびAPKであればインストールできます"
       }
     ]
   },
@@ -47,7 +47,7 @@
       "versionCode": 10,
       "versionName": "1.4.0",
       "url": "https://github.com/Kobold831/AuroraStore4/releases/download/Ver.1.4.0/app-release_1.4.0.apk",
-      "description": "・Dhizukuを導入しました。・公式v4.3.5のプログラムを適用しました。・いくつかの不具合を修正しました。・いくつか英語になっていたのを日本語に翻訳しました。※CPadCustomizeToolを利用してる場合は必ず最新バージョンにアップデートしてください！AIDLの修正をしたためアップデートしないと動作しません。※最新バージョンからDhizukuに対応しています。デバイスオーナーをDhizukuに再設定することをおすすめします。"
+      "description": "Dhizukuを導入しました\n公式v4.3.5のプログラムを適用しました\nいくつかの不具合を修正しました\nいくつか英語になっていたのを日本語に翻訳しました\n\n※CPadCustomizeToolを利用してる場合は必ず最新バージョンにアップデートしてください！AIDLの修正をしたためアップデートしないと動作しません\n※最新バージョンからDhizukuに対応しています\nデバイスオーナーをDhizukuに再設定することをおすすめします"
     },
     "support": {
       "supportCode": 0
