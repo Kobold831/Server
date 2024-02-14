@@ -1,10 +1,10 @@
 {
   "ct": {
     "update": {
-      "versionCode": 42,
-      "versionName": "2.0.0",
-      "url": "https://github.com/Kobold831/CPadCustomizeTool/releases/download/Ver.2.0.0/app-release_2.0.0.apk",
-      "description": "複数の機能を修正しました\n不具合の修正および安定性の向上をしました\n複数の改善をしました\nUIおよびユーザビリティの向上をしました\n\n※最新バージョンに更新することをおすすめします！改良版AuroraStoreを利用している場合は必ずどちらも更新してください！\n※最新バージョンからDhizukuに対応しています\nデバイスオーナーをDhizukuに再設定することをおすすめします"
+      "versionCode": 43,
+      "versionName": "2.0.1",
+      "url": "https://github.com/Kobold831/CPadCustomizeTool/releases/download/Ver.2.0.1/app-release_2.0.1.apk",
+      "description": "特定のアクティビティを起動するとクラッシュする不具合の修正を行いました\n軽微な修正を行いました"
     },
     "support": {
       "supportCode": 0
