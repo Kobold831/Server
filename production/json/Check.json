@@ -12,7 +12,7 @@
     "appList": [
       {
         "name": "Aurora Store for CTXZ",
-        "url": "https://github.com/Kobold831/AuroraStore4/releases/download/Ver.1.4.0/app-release_1.4.0.apk",
+        "url": "https://github.com/Kobold831/AuroraStore4/releases/download/v441.0.0/app-release-441.0.0.apk",
         "description": "Aurroa StoreをNEO・NEXTでサイレントインストールできるように改良したものです"
       },
       {
@@ -44,10 +44,10 @@
   },
   "as": {
     "update": {
-      "versionCode": 10,
-      "versionName": "1.4.0",
-      "url": "https://github.com/Kobold831/AuroraStore4/releases/download/Ver.1.4.0/app-release_1.4.0.apk",
-      "description": "Dhizukuを導入しました\n公式v4.3.5のプログラムを適用しました\nいくつかの不具合を修正しました\nいくつか英語になっていたのを日本語に翻訳しました\n\n※CPadCustomizeToolを利用してる場合は必ず最新バージョンにアップデートしてください！AIDLの修正をしたためアップデートしないと動作しません\n※最新バージョンからDhizukuに対応しています\nデバイスオーナーをDhizukuに再設定することをおすすめします"
+      "versionCode": 11,
+      "versionName": "441.0.0",
+      "url": "https://github.com/Kobold831/AuroraStore4/releases/download/v441.0.0/app-release-441.0.0.apk",
+      "description": "公式v4.4.1のプログラムを適用しました\n複数の不具合の修正と改善を行いました"
     },
     "support": {
       "supportCode": 0
