@@ -44,7 +44,7 @@
   },
   "as": {
     "update": {
-      "versionCode": 11,
+      "versionCode": 10,
       "versionName": "441.0.0",
       "url": "https://github.com/Kobold831/AuroraStore4/releases/download/v441.0.0/app-release-441.0.0.apk",
       "description": "公式v4.4.1のプログラムを適用しました\n複数の不具合の修正と改善を行いました"
