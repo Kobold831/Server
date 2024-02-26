@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <update>
-  <versionCode>11</versionCode>
-  <versionName>441.0.0</versionName>
-  <url>https://github.com/Kobold831/AuroraStore4/releases/download/v441.0.0/app-release-441.0.0.apk</url>
+  <versionCode>13</versionCode>
+  <versionName>441.0.2</versionName>
+  <url>https://github.com/Kobold831/AuroraStore4/releases/download/v441.0.2/app-release-441.0.2.apk</url>
   <description>警告！お使いのバージョンは古いためできるだけ速やかに更新してください！
-    公式v4.3.5のプログラムを適用しました
-    複数の不具合の修正と改善を行いました</description>
+    CPad CustomizeToolを使用したインストーラーを不具合のため削除しました
+    安定性の向上と不具合の修正を行いました
+    ※更新に失敗する場合は、ADBまたはCPad Customize Toolを開き、サイレントインストール機能かアプリを取得で手動更新をお願い致します
+    古いバージョンではアップデート機能に潜在的な不具合があり、正常に更新できない場合があります
+    これは最新バージョンで修正を行いました
+    ダウンロードURL：https://github.com/Kobold831/AuroraStore4/releases/download/v441.0.2/app-release-441.0.2.apk\n\nサポートが必要な場合はSmileTabLaboで質問をお願い致します</description>
 </update>
