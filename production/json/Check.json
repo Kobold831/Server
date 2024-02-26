@@ -44,10 +44,10 @@
   },
   "as": {
     "update": {
-      "versionCode": 10,
-      "versionName": "441.0.0",
-      "url": "https://github.com/Kobold831/AuroraStore4/releases/download/v441.0.0/app-release-441.0.0.apk",
-      "description": "公式v4.4.1のプログラムを適用しました\n複数の不具合の修正と改善を行いました"
+      "versionCode": 12,
+      "versionName": "441.0.1",
+      "url": "https://github.com/Kobold831/AuroraStore4/releases/download/v441.0.1/app-release-441.0.1.apk",
+      "description": "アプリ起動時の不具合修正を行いました\n※古いバージョンの方で更新に失敗する場合は、ADBまたはCPad Customize Toolで更新をお願い致します\nダウンロードURL：https://github.com/Kobold831/AuroraStore4/releases/download/v441.0.1/app-release-441.0.1.apk\nサポートが必要な場合はSmileTabLaboでお願い致します"
     },
     "support": {
       "supportCode": 0
