@@ -12,7 +12,7 @@
     "appList": [
       {
         "name": "Aurora Store for CTXZ",
-        "url": "https://github.com/Kobold831/AuroraStore4/releases/download/v441.0.0/app-release-441.0.0.apk",
+        "url": "https://github.com/Kobold831/AuroraStore4/releases/download/v441.0.1/app-release-441.0.1.apk",
         "description": "Aurroa StoreをNEO・NEXTでサイレントインストールできるように改良したものです"
       },
       {
@@ -47,7 +47,7 @@
       "versionCode": 12,
       "versionName": "441.0.1",
       "url": "https://github.com/Kobold831/AuroraStore4/releases/download/v441.0.1/app-release-441.0.1.apk",
-      "description": "アプリ起動時の不具合修正を行いました\n※古いバージョンの方で更新に失敗する場合は、ADBまたはCPad Customize Toolで更新をお願い致します\nダウンロードURL：https://github.com/Kobold831/AuroraStore4/releases/download/v441.0.1/app-release-441.0.1.apk\nサポートが必要な場合はSmileTabLaboでお願い致します"
+      "description": "アプリ起動時の不具合修正を行いました\n※古いバージョンの方で更新に失敗する場合は、ADBまたはCPad Customize Toolのサイレントインストール機能、アプリを取得で手動更新をお願い致します\nダウンロードURL：https://github.com/Kobold831/AuroraStore4/releases/download/v441.0.1/app-release-441.0.1.apk\nサポートが必要な場合はSmileTabLaboでお願い致します"
     },
     "support": {
       "supportCode": 0
