@@ -32,8 +32,8 @@
       },
       {
         "name": "BypassRevokePermission",
-        "url": "https://cdn.discordapp.com/attachments/947114991973183528/1200450518078734407/app-release.apk",
-        "description": "dchaStateを0にしたままGooglePlayなどのアプリが使えるようにします\nインストール後に1度だけアプリを起動する必要があります\nチャレンジパッドNEXTのみ利用できます"
+        "url": "https://github.com/Kobold831/BypassRevokePermission/releases/doenload/Ver.2.1/app-release.apk",
+        "description": "DchaStateを0にしたままGoogle Playなどのアプリが使えるようにします\nインストール後に1度だけアプリを起動する必要があります\nチャレンジパッドNEXTのみ利用できます"
       },
       {
         "name": "URLを指定してインストール",

@@ -1,2 +1,2 @@
 * text eol=lf
-*.bat text eol=crlf working-tree-encoding=cp850
+*.bat text eol=crlf working-tree-encoding=cp932
