@@ -1,10 +1,10 @@
 {
   "ct": {
     "update": {
-      "versionCode": 43,
-      "versionName": "2.0.1",
-      "url": "https://github.com/Kobold831/CPadCustomizeTool/releases/download/Ver.2.0.1/app-release_2.0.1.apk",
-      "description": "特定のアクティビティを起動するとクラッシュする不具合の修正を行いました\n軽微な修正を行いました"
+      "versionCode": 44,
+      "versionName": "2.1.0",
+      "url": "https://github.com/Kobold831/CPadCustomizeTool/releases/download/Ver.2.0.1/app-release_2.1.0.apk",
+      "description": "アイコンを追加しました\n軽微な修正を行いました"
     },
     "support": {
       "supportCode": 0
@@ -16,9 +16,14 @@
         "description": "Aurroa StoreをNEO・NEXTでサイレントインストールできるように改良したものです"
       },
       {
-        "name": "Nova Launcher",
+        "name": "Nova Launcher (v6)",
+        "url": "https://novalauncher.com/apk/NovaLauncher_6.2.19.apk",
+        "description": "一般的なランチャーです\n２・３で使用できます"
+      },
+      {
+        "name": "Nova Launcher (v7)",
         "url": "https://novalauncher.com/apk/NovaLauncher_7.0.58.apk",
-        "description": "一般的なランチャーです"
+        "description": "一般的なランチャーです\nNEO・NEXTで使用できます"
       },
       {
         "name": "Files by Google",
@@ -31,9 +36,24 @@
         "description": "Dhizkuはデバイスオーナーを共有できるアプリです\nCPadCustomizeToolおよびAurora Store for CTXZはDhizukuを実装しました\nデバイスオーナーをDhizukuに変更することをおすすめします"
       },
       {
+        "name": "EnableGServices",
+        "url": "https://github.com/Kobold831/EnableGServices/releases/download/Ver.1.0/app-release.apk",
+        "description": "Google Playの機能の一部を使えるようにします\nインストール後に1度だけアプリを起動する必要があります\nチャレンジパッド2のみ利用できます"
+      },
+      {
         "name": "BypassRevokePermission",
-        "url": "https://github.com/Kobold831/BypassRevokePermission/releases/doenload/Ver.2.1/app-release.apk",
+        "url": "https://github.com/Kobold831/BypassRevokePermission/releases/download/Ver.2.1/app-release.apk",
         "description": "DchaStateを0にしたままGoogle Playなどのアプリが使えるようにします\nインストール後に1度だけアプリを起動する必要があります\nチャレンジパッドNEXTのみ利用できます"
+      },
+      {
+        "name": "DchaService Tester",
+        "url": "https://github.com/s1204IT/DchaServiceTester/releases/download/v1.2.0/app-release.apk",
+        "description": "DchaService と DchaUtilService の機能を呼び出せます"
+      },
+      {
+        "name": "BenesseExtension Tester",
+        "url": "https://github.com/s1204IT/BenesseExtensionTester/releases/download/v1.2.0/BenesseExtensionTester-v1.2.0.apk",
+        "description": "BenesseExtension の機能を呼び出せます"
       },
       {
         "name": "URLを指定してインストール",
