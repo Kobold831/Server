@@ -75,10 +75,10 @@
   },
   "egp": {
     "update": {
-      "versionName": "1.2.4.0",
+      "versionName": "1.2.5.0",
       "zipUrl": "https://x.gd/dI9tQ",
       "batUrl": "https://raw.githubusercontent.com/Kobold831/Server/main/production/egp/update/updater.bat",
-      "description": "不具合の修正および複数の改善を行いました"
+      "description": "不要なアプリを削除しました"
     }
   }
 }
