@@ -13,7 +13,7 @@
       {
         "name": "Aurora Store for CTXZ",
         "url": "https://github.com/Kobold831/AuroraStore4/releases/download/v441.0.2/app-release-441.0.2.apk",
-        "description": "Aurroa StoreをNEO・NEXTでサイレントインストールできるように改良したものです"
+        "description": "Aurroa StoreをNeo・Nextでサイレントインストールできるように改良したものです"
       },
       {
         "name": "Nova Launcher (v6)",
@@ -23,7 +23,7 @@
       {
         "name": "Nova Launcher (v7)",
         "url": "https://novalauncher.com/apk/NovaLauncher_7.0.58.apk",
-        "description": "一般的なランチャーです\nNEO・NEXTで使用できます"
+        "description": "一般的なランチャーです\nNeo・Next で使用できます"
       },
       {
         "name": "Files by Google",
@@ -43,16 +43,16 @@
       {
         "name": "BypassRevokePermission",
         "url": "https://github.com/Kobold831/BypassRevokePermission/releases/download/Ver.2.1/app-release.apk",
-        "description": "DchaStateを0にしたままGoogle Playなどのアプリが使えるようにします\nインストール後に1度だけアプリを起動する必要があります\nチャレンジパッドNEXTのみ利用できます"
+        "description": "DchaStateを0にしたままGoogle Playなどのアプリが使えるようにします\nインストール後に1度だけアプリを起動する必要があります\nチャレンジパッドNextのみ利用できます"
       },
       {
         "name": "DchaService Tester",
-        "url": "https://github.com/s1204IT/DchaServiceTester/releases/download/v1.3.0/DchaServiceTester-v1.3.0.apk",
+        "url": "https://github.com/s1204IT/DchaServiceTester/releases/download/v1.3.1/DchaServiceTester-v1.3.1.apk",
         "description": "DchaService と DchaUtilService の機能を呼び出せます"
       },
       {
         "name": "BenesseExtension Tester",
-        "url": "https://github.com/s1204IT/BenesseExtensionTester/releases/download/v1.2.0/BenesseExtensionTester-v1.2.0.apk",
+        "url": "https://github.com/s1204IT/BenesseExtensionTester/releases/download/v2.0.1/BenesseExtensionTester-v2.0.1.apk",
         "description": "BenesseExtension の機能を呼び出せます"
       },
       {
@@ -67,7 +67,7 @@
       "versionCode": 13,
       "versionName": "441.0.2",
       "url": "https://github.com/Kobold831/AuroraStore4/releases/download/v441.0.2/app-release-441.0.2.apk",
-      "description": "CPad CustomizeToolを使用したインストーラーを不具合のため削除しました\n安定性の向上と不具合の修正を行いました\n\n※更新に失敗する場合は、ADBまたはCPad Customize Toolを開き、サイレントインストール機能かアプリを取得で手動更新をお願い致します\n古いバージョンではアップデート機能に潜在的な不具合があり、正常に更新できない場合があります\nこれは最新バージョンで修正を行いました\n\nダウンロードURL：https://github.com/Kobold831/AuroraStore4/releases/download/v441.0.2/app-release-441.0.2.apk\n\nサポートが必要な場合はSmileTabLaboで質問をお願い致します"
+      "description": "CPad CustomizeToolを使用したインストーラーを不具合のため削除しました\n安定性の向上と不具合の修正を行いました\n\n※更新に失敗する場合は、ADBまたはCPad Customize Toolを開き、サイレントインストール機能かアプリを取得で手動更新をお願い致します\n古いバージョンではアップデート機能に潜在的な不具合があり、正常に更新できない場合があります\nこれは最新バージョンで修正を行いました\n\nダウンロードURL：https://github.com/Kobold831/AuroraStore4/releases/download/v441.0.2/app-release-441.0.2.apk"
     },
     "support": {
       "supportCode": 0
