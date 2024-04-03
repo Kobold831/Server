@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <update>
-  <versionCode>42</versionCode>
-  <versionName>2.0.0</versionName>
-  <url>https://github.com/Kobold831/CPadCustomizeTool/releases/download/Ver.2.0.0/app-release_2.0.0.apk</url>
-  <description>警告！お使いのバージョンは古いためできるだけ速やかに更新してください！
-    複数の機能を修正しました
-    不具合の修正および安定性の向上をしました
-    複数の改善をしました
-    UIおよびユーザビリティの向上をしました
-    ※最新バージョンに更新することをおすすめします！改良版AuroraStoreを利用している場合は必ずどちらも更新してください！
-    ※最新バージョンからDhizukuに対応しています
-    デバイスオーナーをDhizukuに再設定することをおすすめします</description>
+  <versionCode>45</versionCode>
+  <versionName>2.2.0</versionName>
+  <url>https://github.com/Kobold831/CPadCustomizeTool/releases/download/v2.2.0/app-release_2.2.0.apk</url>
+  <description>・不具合の修正を行いました
+    ・安定性の向上を行いました
+    ・機能改善を行いました</description>
 </update>
