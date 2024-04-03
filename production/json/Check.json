@@ -1,10 +1,10 @@
 {
   "ct": {
     "update": {
-      "versionCode": 44,
-      "versionName": "2.1.0",
-      "url": "https://github.com/Kobold831/CPadCustomizeTool/releases/download/Ver.2.1.0/app-release_2.1.0.apk",
-      "description": "アイコンを追加しました\n軽微な修正を行いました"
+      "versionCode": 45,
+      "versionName": "2.2.0",
+      "url": "https://github.com/Kobold831/CPadCustomizeTool/releases/download/v2.2.0/app-release_2.2.0.apk",
+      "description": "・不具合の修正を行いました\n・安定性の向上を行いました\n・機能改善を行いました"
     },
     "support": {
       "supportCode": 0
@@ -37,12 +37,12 @@
       },
       {
         "name": "EnableGServices",
-        "url": "https://github.com/Kobold831/EnableGServices/releases/download/Ver.1.0/app-release.apk",
+        "url": "https://github.com/Kobold831/EnableGServices/releases/download/v1.0/app-release_1.0.apk",
         "description": "Google Playの機能の一部を使えるようにします\nインストール後に1度だけアプリを起動する必要があります\nチャレンジパッド2のみ利用できます"
       },
       {
         "name": "BypassRevokePermission",
-        "url": "https://github.com/Kobold831/BypassRevokePermission/releases/download/Ver.2.1/app-release.apk",
+        "url": "https://github.com/Kobold831/BypassRevokePermission/releases/download/v2.3/app-release_2.3.apk",
         "description": "DchaStateを0にしたままGoogle Playなどのアプリが使えるようにします\nインストール後に1度だけアプリを起動する必要があります\nチャレンジパッドNextのみ利用できます"
       },
       {
