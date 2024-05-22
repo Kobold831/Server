@@ -71,7 +71,7 @@
   "egp": {
     "update": {
       "versionName": "1.3.0.0",
-      "zipUrl": "https://x.gd/dI9tQ",
+      "zipUrl": "https://github.com/Kobold831/EnableGPlayWithPC/releases/download/Ver.1.3.0.0/EnableGPlayWithPC-Ver.1.3.0.0-EOS.zip",
       "batUrl": "https://raw.githubusercontent.com/Kobold831/Server/main/production/egp/update/updater.bat",
       "description": "EOS: サポートを終了しました"
     }
