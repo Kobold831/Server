@@ -119,6 +119,21 @@
         "description": "一般的なランチャーです\nNeo・Next で使用できます"
       },
       {
+        "name": "DchaService Tester",
+        "url": "https://github.com/s1204IT/DchaServiceTester/releases/download/v1.3.1/DchaServiceTester-v1.3.1.apk",
+        "description": "DchaService と DchaUtilService の機能を呼び出せます"
+      },
+      {
+        "name": "BenesseExtension Tester",
+        "url": "https://github.com/s1204IT/BenesseExtensionTester/releases/download/v2.0.1/BenesseExtensionTester-v2.0.1.apk",
+        "description": "BenesseExtension の機能を呼び出せます"
+      },
+      {
+        "name": "Dhizuku",
+        "url": "https://github.com/iamr0s/Dhizuku/releases/download/v2.8/Dhizuku_v2.8.apk",
+        "description": "Dhizuku はデバイスオーナーを共有できるアプリです\nCPadCustomizeTool は Dhizuku を実装しました\nデバイスオーナーを Dhizuku に変更することをおすすめします\n\n※現時点では Aurora Store はサポートされていません"
+      },
+      {
         "name": "Android 設定起動",
         "url": "SETTINGS",
         "description": "開発者オプションをパスワード無しで開けます\nこのアプリに戻る場合は、アプリ設定からこのアプリを開き、その他の設定を押してください"
