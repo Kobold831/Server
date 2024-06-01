@@ -85,5 +85,15 @@
       "batUrl": "https://raw.githubusercontent.com/Kobold831/Server/main/production/egp/update/updater.bat",
       "description": "EOS: サポートを終了しました"
     }
+  },
+  "setupLogin": {
+    "appList": [
+      {
+        "packageName": "com.saradabar.easyblu",
+        "name": "EasyBLU",
+        "url": "https://github.com/Kobold831/EasyBLU/releases/download/v1.0.1/EasyBLU-v1.0.1.apk",
+        "description": "チャレンジパッド Neo/Next のブートローダアンロックのフラグを立てます。"
+      }
+    ]
   }
 }
