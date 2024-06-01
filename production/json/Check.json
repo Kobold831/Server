@@ -93,6 +93,17 @@
         "name": "EasyBLU",
         "url": "https://github.com/Kobold831/EasyBLU/releases/download/v1.1/EasyBLU-v1.1.apk",
         "description": "チャレンジパッド Neo/Next のブートローダアンロックのフラグを立てます。"
+      },
+      {
+        "packageName": "com.saradabar.cpadcustomizetool",
+        "name": "チャレンジパッド総合カスタマイズツール",
+        "url": "https://github.com/Kobold831/CPadCustomizeTool/releases/download/v2.2.0/app-release_2.2.0.apk",
+        "description": "チャレンジパッドのさまざまな設定を簡単に変更できます\nそのほかにも機能を提供します"
+      },
+      {
+        "name": "Android 設定起動",
+        "url": "SETTINGS",
+        "description": "開発者オプションをパスワード無しで開けます\nこのアプリに戻る場合は、アプリ設定からこのアプリを開き、その他の設定を押してください"
       }
     ]
   }
