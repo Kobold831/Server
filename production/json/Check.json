@@ -101,6 +101,24 @@
         "description": "チャレンジパッドのさまざまな設定を簡単に変更できます\nそのほかにも機能を提供します"
       },
       {
+        "packageName": "com.teslacoilsw.launcher",
+        "name": "Nova Launcher (v6)",
+        "url": "https://novalauncher.com/apk/NovaLauncher_6.2.19.apk",
+        "description": "一般的なランチャーです\n２・３で使用できます"
+      },
+      {
+        "packageName": "com.teslacoilsw.launcher",
+        "name": "Nova Launcher (v7)",
+        "url": "https://novalauncher.com/apk/NovaLauncher_7.0.58.apk",
+        "description": "一般的なランチャーです\nNeo・Next で使用できます"
+      },
+      {
+        "packageName": "com.teslacoilsw.launcher",
+        "name": "Nova Launcher (v8)",
+        "url": "https://novalauncher.com/apk/NovaLauncher_8.0.17.apk",
+        "description": "一般的なランチャーです\nNeo・Next で使用できます"
+      },
+      {
         "name": "Android 設定起動",
         "url": "SETTINGS",
         "description": "開発者オプションをパスワード無しで開けます\nこのアプリに戻る場合は、アプリ設定からこのアプリを開き、その他の設定を押してください"
