@@ -41,11 +41,6 @@
         "description": "Google Play開発者サービスの機能の一部を使えるようにします\nインストール後に1度だけアプリを起動する必要があります\nチャレンジパッド２のみ利用できます\n\n※DchaService が必要です"
       },
       {
-        "name": "BypassRevokePermission",
-        "url": "https://github.com/Kobold831/BypassRevokePermission/releases/download/v2.3/app-release_2.3.apk",
-        "description": "DchaState を 0 にしたまま Playストアなどのアプリが使えるようにします\nインストール後に１度だけアプリを起動する必要があります\nチャレンジパッド Next のみ利用できます\n\n※DchaService が必要です"
-      },
-      {
         "name": "EasyBLU",
         "url": "https://github.com/Kobold831/EasyBLU/releases/download/v1.0.1/EasyBLU-v1.0.1.apk",
         "description": "チャレンジパッド Neo/Next のブートローダアンロックのフラグを立てます。\n\n※DchaService が必要です"
@@ -119,16 +114,19 @@
         "description": "一般的なランチャーです\nNeo・Next で使用できます"
       },
       {
+        "packageName": "me.s1204.benesse.dcha.tester"
         "name": "DchaService Tester",
         "url": "https://github.com/s1204IT/DchaServiceTester/releases/download/v1.3.1/DchaServiceTester-v1.3.1.apk",
         "description": "DchaService と DchaUtilService の機能を呼び出せます"
       },
       {
+        "packageName": "me.s1204.benesse.touch.tester"
         "name": "BenesseExtension Tester",
         "url": "https://github.com/s1204IT/BenesseExtensionTester/releases/download/v2.0.1/BenesseExtensionTester-v2.0.1.apk",
         "description": "BenesseExtension の機能を呼び出せます"
       },
       {
+        "packageName": "com.rosan.dhizuku"
         "name": "Dhizuku",
         "url": "https://github.com/iamr0s/Dhizuku/releases/download/v2.8/Dhizuku_v2.8.apk",
         "description": "Dhizuku はデバイスオーナーを共有できるアプリです\nCPadCustomizeTool は Dhizuku を実装しました\nデバイスオーナーを Dhizuku に変更することをおすすめします\n\n※現時点では Aurora Store はサポートされていません"
