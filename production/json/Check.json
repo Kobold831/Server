@@ -42,7 +42,7 @@
       },
       {
         "name": "EasyBLU",
-        "url": "https://github.com/Kobold831/EasyBLU/releases/download/v1.0.1/EasyBLU-v1.0.1.apk",
+        "url": "https://github.com/Kobold831/EasyBLU/releases/download/v1.2/EasyBLU-v1.2.apk",
         "description": "チャレンジパッド Neo/Next のブートローダアンロックのフラグを立てます。\n\n※DchaService が必要です"
       },
       {
@@ -86,7 +86,7 @@
       {
         "packageName": "com.saradabar.easyblu",
         "name": "EasyBLU",
-        "url": "https://github.com/Kobold831/EasyBLU/releases/download/v1.1/EasyBLU-v1.1.apk",
+        "url": "https://github.com/Kobold831/EasyBLU/releases/download/v1.2/EasyBLU-v1.2.apk",
         "description": "チャレンジパッド Neo/Next のブートローダアンロックのフラグを立てます。"
       },
       {
@@ -132,9 +132,9 @@
         "description": "Dhizuku はデバイスオーナーを共有できるアプリです\nCPadCustomizeTool は Dhizuku を実装しました\nデバイスオーナーを Dhizuku に変更することをおすすめします\n\n※現時点では Aurora Store はサポートされていません"
       },
       {
-        "name": "Android 設定起動",
+        "name": "Android 設定アプリ起動",
         "url": "SETTINGS",
-        "description": "開発者オプションをパスワード無しで開けます\nこのアプリに戻る場合は、アプリ設定からこのアプリを開き、その他の設定を押してください"
+        "description": "開発者オプションをパスワード無しで開けます\nこのアプリに戻る場合は、設定アプリからこのアプリの詳細を開き、その他の設定を押してください"
       }
     ]
   }
