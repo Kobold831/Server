@@ -26,6 +26,11 @@
         "description": "一般的なランチャーです\nNeo・Next で使用できます"
       },
       {
+        "name": "Google Chrome",
+        "url": "https://x.gd/ifW8Z",
+        "description": "Google のブラウザです\nダウンロードに時間がかかる場合があります"
+      },
+      {
         "name": "Files by Google",
         "url": "https://x.gd/gUvRa",
         "description": "Google のファイラーです\nダウンロードに時間がかかる場合があります"
@@ -36,12 +41,7 @@
         "description": "Dhizuku はデバイスオーナーを共有できるアプリです\nCPadCustomizeTool は Dhizuku を実装しました\nデバイスオーナーを Dhizuku に変更することをおすすめします\n\n※現時点では Aurora Store はサポートされていません"
       },
       {
-        "name": "EnableGServices",
-        "url": "https://github.com/Kobold831/EnableGServices/releases/download/v1.0/app-release_1.0.apk",
-        "description": "Google Play開発者サービスの機能の一部を使えるようにします\nインストール後に1度だけアプリを起動する必要があります\nチャレンジパッド２のみ利用できます\n\n※DchaService が必要です"
-      },
-      {
-        "name": "EasyBLU",
+        "name": "Easy BLU",
         "url": "https://github.com/Kobold831/EasyBLU/releases/download/v1.2/EasyBLU-v1.2.apk",
         "description": "チャレンジパッド Neo/Next のブートローダアンロックのフラグを立てます。\n\n※DchaService が必要です"
       },
@@ -56,9 +56,9 @@
         "description": "BenesseExtension の機能を呼び出せます"
       },
       {
-        "name": "URLを指定してインストール",
+        "name": "URL を指定してインストール",
         "url": "MYURL",
-        "description": "OKを押すと表示される画面でURLを入力してください\n有効なURLおよびAPKであればインストールできます"
+        "description": "OKを押すと表示される画面でURLを入力してください\n有効な URL および 拡張が”.apk” であればインストールできます"
       }
     ]
   },
@@ -85,7 +85,7 @@
     "appList": [
       {
         "packageName": "com.saradabar.easyblu",
-        "name": "EasyBLU",
+        "name": "Easy BLU",
         "url": "https://github.com/Kobold831/EasyBLU/releases/download/v1.2/EasyBLU-v1.2.apk",
         "description": "チャレンジパッド Neo/Next のブートローダアンロックのフラグを立てます。"
       },
