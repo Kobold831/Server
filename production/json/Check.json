@@ -4,7 +4,7 @@
       "versionCode": 49,
       "versionName": "2.3.3",
       "url": "https://github.com/Kobold831/CPadCustomizeTool/releases/download/v2.3.3/app-release_2.3.3.apk",
-      "description": "・緊急・通常モードの不具合修正をおこないました。\n・WebView（アプリ内ブラウザ）からファイルをダウンロードできるように改善しました。"
+      "description": "・クラッシュしたときに表示されるダイアログを変更しました・右上の︙マーク -> アプリ情報からバグレポート、フィードバックをGoogle フォームで送信できるようになりました"
     },
     "support": {
       "supportCode": 0
