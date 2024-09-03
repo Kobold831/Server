@@ -22,7 +22,7 @@
       },
       {
         "name": "Nova Launcher (v8)",
-        "url": "https://novalauncher.com/apk/NovaLauncher_8.0.17.apk",
+        "url": "https://novalauncher.com/apk/NovaLauncher_8.0.18.apk",
         "description": "一般的なランチャーです\nNeo・Next で使用できます"
       },
       {
@@ -37,7 +37,7 @@
       },
       {
         "name": "Dhizuku",
-        "url": "https://github.com/iamr0s/Dhizuku/releases/download/v2.8/Dhizuku_v2.8.apk",
+        "url": "https://github.com/iamr0s/Dhizuku/releases/download/v2.9-alpha/app-release.apk",
         "description": "Dhizuku はデバイスオーナーを共有できるアプリです\nCPadCustomizeTool は Dhizuku を実装しました\nデバイスオーナーを Dhizuku に変更することをおすすめします\n\n※現時点では Aurora Store はサポートされていません"
       },
       {
@@ -110,7 +110,7 @@
       {
         "packageName": "com.teslacoilsw.launcher",
         "name": "Nova Launcher (v8)",
-        "url": "https://novalauncher.com/apk/NovaLauncher_8.0.17.apk",
+        "url": "https://novalauncher.com/apk/NovaLauncher_8.0.18.apk",
         "description": "一般的なランチャーです\nNeo・Next で使用できます"
       },
       {
@@ -128,7 +128,7 @@
       {
         "packageName": "com.rosan.dhizuku",
         "name": "Dhizuku",
-        "url": "https://github.com/iamr0s/Dhizuku/releases/download/v2.8/Dhizuku_v2.8.apk",
+        "url": "https://github.com/iamr0s/Dhizuku/releases/download/v2.9-alpha/app-release.apk",
         "description": "Dhizuku はデバイスオーナーを共有できるアプリです\nCPadCustomizeTool は Dhizuku を実装しました\nデバイスオーナーを Dhizuku に変更することをおすすめします\n\n※現時点では Aurora Store はサポートされていません"
       },
       {
