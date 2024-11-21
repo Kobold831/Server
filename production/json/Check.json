@@ -37,13 +37,13 @@
       },
       {
         "name": "Dhizuku",
-        "url": "https://github.com/iamr0s/Dhizuku/releases/download/v2.9-alpha/app-release.apk",
+        "url": "https://github.com/iamr0s/Dhizuku/releases/download/v2.9/Dhizuku_v2.9.apk",
         "description": "Dhizuku はデバイスオーナーを共有できるアプリです\nCPadCustomizeTool は Dhizuku を実装しました\nデバイスオーナーを Dhizuku に変更することをおすすめします\n\n※現時点では Aurora Store はサポートされていません"
       },
       {
         "name": "Easy BLU",
-        "url": "https://github.com/Kobold831/EasyBLU/releases/download/v1.2/EasyBLU-v1.2.apk",
-        "description": "チャレンジパッド Neo/Next のブートローダアンロックのフラグを立てます。\n\n※DchaService が必要です"
+        "url": "https://github.com/Kobold831/EasyBLU/releases/download/v2.0/EasyBLU-v2.0.apk",
+        "description": "チャレンジパッド 3/Neo/Next のブートローダアンロックのフラグを立てます。\n\n※Neo/Next では DchaService が必要です"
       },
       {
         "name": "DchaService Tester",
@@ -86,8 +86,8 @@
       {
         "packageName": "com.saradabar.easyblu",
         "name": "Easy BLU",
-        "url": "https://github.com/Kobold831/EasyBLU/releases/download/v1.2/EasyBLU-v1.2.apk",
-        "description": "チャレンジパッド Neo/Next のブートローダアンロックのフラグを立てます。"
+        "url": "https://github.com/Kobold831/EasyBLU/releases/download/v2.0/EasyBLU-2.0.apk",
+        "description": "チャレンジパッド 3/Neo/Next のブートローダアンロックのフラグを立てます。"
       },
       {
         "packageName": "com.saradabar.cpadcustomizetool",
@@ -128,7 +128,7 @@
       {
         "packageName": "com.rosan.dhizuku",
         "name": "Dhizuku",
-        "url": "https://github.com/iamr0s/Dhizuku/releases/download/v2.9-alpha/app-release.apk",
+        "url": "https://github.com/iamr0s/Dhizuku/releases/download/v2.9/Dhizuku_v2.9.apk",
         "description": "Dhizuku はデバイスオーナーを共有できるアプリです\nCPadCustomizeTool は Dhizuku を実装しました\nデバイスオーナーを Dhizuku に変更することをおすすめします\n\n※現時点では Aurora Store はサポートされていません"
       },
       {
