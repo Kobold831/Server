@@ -11,9 +11,14 @@
     },
     "appList": [
       {
+        "name": "Nova Launcher (v5)",
+        "url": "https://novalauncher.com/apk/NovaLauncher_5.5.4.apk",
+        "description": "一般的なランチャーです\n２・３で使用できます"
+      },
+      {
         "name": "Nova Launcher (v6)",
         "url": "https://novalauncher.com/apk/NovaLauncher_6.2.19.apk",
-        "description": "一般的なランチャーです\n２・３で使用できます"
+        "description": "一般的なランチャーです\n２・３で使用できます\n３の一部のビルドでは設定が開けません"
       },
       {
         "name": "Nova Launcher (v7)",
@@ -87,13 +92,19 @@
         "packageName": "com.saradabar.easyblu",
         "name": "Easy BLU",
         "url": "https://github.com/Kobold831/EasyBLU/releases/download/v2.0/EasyBLU-2.0.apk",
-        "description": "チャレンジパッド 3/Neo/Next のブートローダアンロックのフラグを立てます。"
+        "description": "チャレンジパッド 3/Neo/Next のブートローダアンロックのフラグを立てます"
       },
       {
         "packageName": "com.saradabar.cpadcustomizetool",
         "name": "チャレンジパッド総合カスタマイズツール",
         "url": "https://github.com/Kobold831/CPadCustomizeTool/releases/download/v2.3.5/app-release_2.3.5.apk",
         "description": "チャレンジパッドのさまざまな設定を簡単に変更できます\nそのほかにも機能を提供します"
+      },
+      {
+        "packageName": "com.teslacoilsw.launcher",
+        "name": "Nova Launcher (v5)",
+        "url": "https://novalauncher.com/apk/NovaLauncher_5.5.4.apk",
+        "description": "一般的なランチャーです\n２・３で使用できます\n３の一部のビルドでは設定が開けません"
       },
       {
         "packageName": "com.teslacoilsw.launcher",
