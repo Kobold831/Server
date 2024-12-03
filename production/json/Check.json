@@ -1,10 +1,10 @@
 {
   "ct": {
     "update": {
-      "versionCode": 52,
-      "versionName": "2.4.0",
-      "url": "https://github.com/Kobold831/CPadCustomizeTool/releases/download/v2.4.0/app-release_2.4.0.apk",
-      "description": "・不具合の修正を行いました。\n・デバイスオーナー機能、サイレントインストール機能で発生していたクラッシュする問題を修正しました。\n・その他安定性の向上を行いました。"
+      "versionCode": 53,
+      "versionName": "2.4.1",
+      "url": "https://github.com/Kobold831/CPadCustomizeTool/releases/download/v2.4.1/app-release_2.4.1.apk",
+      "description": "・不具合の修正を行いました。\n・安定性の向上を行いました。"
     },
     "support": {
       "supportCode": 0
