@@ -1,10 +1,10 @@
 {
   "ct": {
     "update": {
-      "versionCode": 54,
-      "versionName": "2.4.2",
-      "url": "https://github.com/Kobold831/CPadCustomizeTool/releases/download/v2.4.2/app-release_2.4.2.apk",
-      "description": "・不具合の修正を行いました。\n・安定性の向上を行いました。"
+      "versionCode": 55,
+      "versionName": "2.4.3",
+      "url": "https://github.com/Kobold831/CPadCustomizeTool/releases/download/v2.4.3/app-release_2.4.3.apk",
+      "description": "・不具合の修正を行いました。\n・安定性の向上を行いました。\n・複数の改善を行いました。"
     },
     "support": {
       "supportCode": 0
@@ -42,8 +42,8 @@
       },
       {
         "name": "Dhizuku",
-        "url": "https://github.com/iamr0s/Dhizuku/releases/download/v2.9/Dhizuku_v2.9.apk",
-        "description": "Dhizuku はデバイスオーナーを共有できるアプリです\nCPadCustomizeTool は Dhizuku を実装しました\nデバイスオーナーを Dhizuku に変更することをおすすめします\n\n※現時点では Aurora Store はサポートされていません"
+        "url": "https://github.com/iamr0s/Dhizuku/releases/download/v2.8/Dhizuku_v2.8.apk",
+        "description": "Dhizuku はデバイスオーナーを共有できるアプリです\nデバイスオーナーを Dhizuku に変更することをおすすめします\nインストールしたあとは、バージョンを2.9にアップデートしないでください！"
       },
       {
         "name": "Easy BLU",
@@ -97,7 +97,7 @@
       {
         "packageName": "com.saradabar.cpadcustomizetool",
         "name": "チャレンジパッド総合カスタマイズツール",
-        "url": "https://github.com/Kobold831/CPadCustomizeTool/releases/download/v2.4.2/app-release_2.4.2.apk",
+        "url": "https://github.com/Kobold831/CPadCustomizeTool/releases/download/v2.4.3/app-release_2.4.3.apk",
         "description": "チャレンジパッドのさまざまな設定を簡単に変更できます\nそのほかにも機能を提供します"
       },
       {
@@ -140,7 +140,7 @@
         "packageName": "com.rosan.dhizuku",
         "name": "Dhizuku",
         "url": "https://github.com/iamr0s/Dhizuku/releases/download/v2.9/Dhizuku_v2.9.apk",
-        "description": "Dhizuku はデバイスオーナーを共有できるアプリです\nCPadCustomizeTool は Dhizuku を実装しました\nデバイスオーナーを Dhizuku に変更することをおすすめします\n\n※現時点では Aurora Store はサポートされていません"
+        "description": "Dhizuku はデバイスオーナーを共有できるアプリです\nデバイスオーナーを Dhizuku に変更することをおすすめします\nインストールしたあとは、バージョンを2.9にアップデートしないでください！"
       },
       {
         "name": "Android 設定アプリ起動",
