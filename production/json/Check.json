@@ -47,7 +47,7 @@
       },
       {
         "name": "Easy BLU",
-        "url": "https://github.com/Kobold831/EasyBLU/releases/download/v1.2/EasyBLU-v1.2.apk",
+        "url": "https://github.com/Kobold831/EasyBLU/releases/download/v3.0/EasyBLU-v3.0.apk",
         "description": "チャレンジパッド 3/Neo/Next のブートローダアンロックのフラグを立てます。\n\n※Neo/Next では DchaService が必要です"
       },
       {
@@ -57,7 +57,7 @@
       },
       {
         "name": "BenesseExtension Tester",
-        "url": "https://github.com/s1204IT/BenesseExtensionTester/releases/download/v2.0.1/BenesseExtensionTester-v2.0.1.apk",
+        "url": "https://github.com/s1204IT/BenesseExtensionTester/releases/download/v2.1.0/BenesseExtensionTester-v2.1.0.apk",
         "description": "BenesseExtension の機能を呼び出せます"
       },
       {
@@ -91,7 +91,7 @@
       {
         "packageName": "com.saradabar.easyblu",
         "name": "Easy BLU",
-        "url": "https://github.com/Kobold831/EasyBLU/releases/download/v1.2/EasyBLU-v1.2.apk",
+        "url": "https://github.com/Kobold831/EasyBLU/releases/download/v3.0/EasyBLU-v3.0.apk",
         "description": "チャレンジパッド 3/Neo/Next のブートローダアンロックのフラグを立てます"
       },
       {
@@ -133,7 +133,7 @@
       {
         "packageName": "me.s1204.benesse.touch.test",
         "name": "BenesseExtension Tester",
-        "url": "https://github.com/s1204IT/BenesseExtensionTester/releases/download/v2.0.1/BenesseExtensionTester-v2.0.1.apk",
+        "url": "https://github.com/s1204IT/BenesseExtensionTester/releases/download/v2.1.0/BenesseExtensionTester-v2.1.0.apk",
         "description": "BenesseExtension の機能を呼び出せます"
       },
       {
