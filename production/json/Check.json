@@ -52,7 +52,7 @@
       },
       {
         "name": "DchaService Tester",
-        "url": "https://github.com/s1204IT/DchaServiceTester/releases/download/v1.3.1/DchaServiceTester-v1.3.1.apk",
+        "url": "https://github.com/s1204IT/DchaServiceTester/releases/download/v1.4.1/DchaServiceTester-v1.4.1.apk",
         "description": "DchaService と DchaUtilService の機能を呼び出せます"
       },
       {
@@ -127,7 +127,7 @@
       {
         "packageName": "me.s1204.benesse.dcha.test",
         "name": "DchaService Tester",
-        "url": "https://github.com/s1204IT/DchaServiceTester/releases/download/v1.3.1/DchaServiceTester-v1.3.1.apk",
+        "url": "https://github.com/s1204IT/DchaServiceTester/releases/download/v1.4.1/DchaServiceTester-v1.4.1.apk",
         "description": "DchaService と DchaUtilService の機能を呼び出せます"
       },
       {
