@@ -57,7 +57,7 @@
       },
       {
         "name": "BenesseExtension Tester",
-        "url": "https://github.com/s1204IT/BenesseExtensionTester/releases/download/v2.1.0/BenesseExtensionTester-v2.1.0.apk",
+        "url": "https://github.com/s1204IT/BenesseExtensionTester/releases/download/v2.3.0/BenesseExtensionTester-v2.3.0.apk",
         "description": "BenesseExtension の機能を呼び出せます"
       },
       {
@@ -133,7 +133,7 @@
       {
         "packageName": "me.s1204.benesse.touch.test",
         "name": "BenesseExtension Tester",
-        "url": "https://github.com/s1204IT/BenesseExtensionTester/releases/download/v2.1.0/BenesseExtensionTester-v2.1.0.apk",
+        "url": "https://github.com/s1204IT/BenesseExtensionTester/releases/download/v2.3.0/BenesseExtensionTester-v2.3.0.apk",
         "description": "BenesseExtension の機能を呼び出せます"
       },
       {
