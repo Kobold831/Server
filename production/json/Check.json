@@ -125,6 +125,11 @@
         "description": "一般的なランチャーです\nNeo・Next で使用できます"
       },
       {
+        "name": "Brave Browser",
+        "url": "https://github.com/brave/brave-browser/releases/latest/download/Bravearm64Universal.apk",
+        "description": "Brave Software のブラウザです\nダウンロードに時間がかかる場合があります"
+      },
+      {
         "packageName": "me.s1204.benesse.dcha.test",
         "name": "DchaService Tester",
         "url": "https://github.com/s1204IT/DchaServiceTester/releases/download/v1.4.1/DchaServiceTester-v1.4.1.apk",
