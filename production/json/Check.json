@@ -130,6 +130,7 @@
         "description": "一般的なランチャーです\nNeo・Next で使用できます"
       },
       {
+        "packageName": "com.brave.browser",
         "name": "Brave Browser",
         "url": "https://github.com/brave/brave-browser/releases/latest/download/Bravearm64Universal.apk",
         "description": "Brave Software のブラウザです\nダウンロードに時間がかかる場合があります"
@@ -147,6 +148,7 @@
         "description": "BenesseExtension の機能を呼び出せます"
       },
       {
+        "packageName": "com.saradabar.bypassrevokepermission",
         "name": "Bypass Revoke Permission (EOS)",
         "url": "https://github.com/Kobold831/BypassRevokePermission/releases/download/v2.3/app-release_2.3.apk",
         "description": "ユーザーアプリをシステム権限で動作させます。\nNext のみ利用できます。\nサポート終了済み"
