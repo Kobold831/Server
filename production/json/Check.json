@@ -51,6 +51,11 @@
         "description": "チャレンジパッド 3/Neo/Next のブートローダアンロックのフラグを立てます。\n\n※Neo/Next では DchaService が必要です"
       },
       {
+        "name": "Bypass Revoke Permission (EOS)",
+        "url": "https://github.com/Kobold831/BypassRevokePermission/releases/download/v2.3/app-release_2.3.apk",
+        "description": "ユーザーアプリをシステム権限で動作させます。\nNext のみ利用できます。\nサポート終了済み"
+      },
+      {
         "name": "DchaService Tester",
         "url": "https://github.com/s1204IT/DchaServiceTester/releases/download/v1.4.1/DchaServiceTester-v1.4.1.apk",
         "description": "DchaService と DchaUtilService の機能を呼び出せます"
@@ -140,6 +145,11 @@
         "name": "BenesseExtension Tester",
         "url": "https://github.com/s1204IT/BenesseExtensionTester/releases/download/v2.3.1/BenesseExtensionTester-v2.3.1.apk",
         "description": "BenesseExtension の機能を呼び出せます"
+      },
+      {
+        "name": "Bypass Revoke Permission (EOS)",
+        "url": "https://github.com/Kobold831/BypassRevokePermission/releases/download/v2.3/app-release_2.3.apk",
+        "description": "ユーザーアプリをシステム権限で動作させます。\nNext のみ利用できます。\nサポート終了済み"
       },
       {
         "packageName": "com.rosan.dhizuku",
