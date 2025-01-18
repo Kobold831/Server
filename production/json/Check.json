@@ -66,26 +66,6 @@
         "description": "チャレンジパッドNext のペンの電池残量を表示します\n機能が統合され次第、削除します"
       },
       {
-        "name": "【Next専用】Bypass Revoke Permission (EOS)",
-        "url": "https://github.com/Kobold831/BypassRevokePermission/releases/download/v2.3/app-release_2.3.apk",
-        "description": "ユーザーアプリをシステム権限で動作させます。\nNext のみ利用できます。\nサポート終了済み"
-      },
-      {
-        "name": "【Next専用】Google サービスフレームワーク",
-        "url": "https://subcontent.s1204.me/pub/Android/CTZ/GoogleServicesFramework.apk",
-        "description": "チャレンジパッドNext 専用です\n必ず BypassRevokePermission を先にインストールしてください。"
-      },
-      {
-        "name": "【Next専用】Google Play 開発者サービス",
-        "url": "https://subcontent.s1204.me/pub/Android/CTZ/GmsCore.apk",
-        "description": "チャレンジパッドNext 専用です\n必ず BypassRevokePermission と\nGoogleサービスフレームワーク を先にインストールしてください。"
-      },
-      {
-        "name": "【Next専用】Google Play ストア",
-        "url": "https://subcontent.s1204.me/pub/Android/CTZ/Phonesky.apk",
-        "description": "チャレンジパッドNext 専用です\n必ず BypassRevokePermission と\nGoogleサービスフレームワーク と\nGoogle Play 開発者サービス を先にインストールしてください。"
-      },
-      {
         "name": "URL を指定してインストール",
         "url": "MYURL",
         "description": "OKを押すと表示される画面でURLを入力してください\n有効な URL および 拡張が”.apk” であればインストールできます"
