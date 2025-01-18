@@ -51,11 +51,6 @@
         "description": "チャレンジパッド 3/Neo/Next のブートローダアンロックのフラグを立てます。\n\n※Neo/Next では DchaService が必要です"
       },
       {
-        "name": "Bypass Revoke Permission (EOS)",
-        "url": "https://github.com/Kobold831/BypassRevokePermission/releases/download/v2.3/app-release_2.3.apk",
-        "description": "ユーザーアプリをシステム権限で動作させます。\nNext のみ利用できます。\nサポート終了済み"
-      },
-      {
         "name": "DchaService Tester",
         "url": "https://github.com/s1204IT/DchaServiceTester/releases/download/v1.4.1/DchaServiceTester-v1.4.1.apk",
         "description": "DchaService と DchaUtilService の機能を呼び出せます"
@@ -69,6 +64,26 @@
         "name": "NextPen",
         "url": "https://github.com/s1204IT/NextPen/releases/download/v1.0.0/NextPen-v1.0.0.apk",
         "description": "チャレンジパッドNext のペンの電池残量を表示します\n機能が統合され次第、削除します"
+      },
+      {
+        "name": "【Next専用】Bypass Revoke Permission (EOS)",
+        "url": "https://github.com/Kobold831/BypassRevokePermission/releases/download/v2.3/app-release_2.3.apk",
+        "description": "ユーザーアプリをシステム権限で動作させます。\nNext のみ利用できます。\nサポート終了済み"
+      },
+      {
+        "name": "【Next専用】Google サービスフレームワーク",
+        "url": "https://subcontent.s1204.me/pub/Android/CTZ/GoogleServicesFramework.apk",
+        "description": "チャレンジパッドNext 専用です\n必ず BypassRevokePermission を先にインストールしてください。"
+      },
+      {
+        "name": "【Next専用】Google Play 開発者サービス",
+        "url": "https://subcontent.s1204.me/pub/Android/CTZ/GmsCore.apk",
+        "description": "チャレンジパッドNext 専用です\n必ず BypassRevokePermission と\nGoogleサービスフレームワーク を先にインストールしてください。"
+      },
+      {
+        "name": "【Next専用】Google Play ストア",
+        "url": "https://subcontent.s1204.me/pub/Android/CTZ/Phonesky.apk",
+        "description": "チャレンジパッドNext 専用です\n必ず BypassRevokePermission と\nGoogleサービスフレームワーク と\nGoogle Play 開発者サービス を先にインストールしてください。"
       },
       {
         "name": "URL を指定してインストール",
@@ -153,16 +168,34 @@
         "description": "BenesseExtension の機能を呼び出せます"
       },
       {
-        "packageName": "com.saradabar.bypassrevokepermission",
-        "name": "Bypass Revoke Permission (EOS)",
-        "url": "https://github.com/Kobold831/BypassRevokePermission/releases/download/v2.3/app-release_2.3.apk",
-        "description": "ユーザーアプリをシステム権限で動作させます。\nNext のみ利用できます。\nサポート終了済み"
-      },
-      {
         "packageName": "com.rosan.dhizuku",
         "name": "Dhizuku",
         "url": "https://github.com/iamr0s/Dhizuku/releases/download/v2.8/Dhizuku_v2.8.apk",
         "description": "Dhizuku はデバイスオーナーを共有できるアプリです\nデバイスオーナーを Dhizuku に変更することをおすすめします\nインストールしたあとは、バージョンを2.9にアップデートしないでください！"
+      },
+      {
+        "packageName": "com.saradabar.bypassrevokepermission",
+        "name": "【Next専用】Bypass Revoke Permission (EOS)",
+        "url": "https://github.com/Kobold831/BypassRevokePermission/releases/download/v2.3/app-release_2.3.apk",
+        "description": "ユーザーアプリをシステム権限で動作させます。\nNext のみ利用できます。\nサポート終了済み"
+      },
+      {
+        "packageName": "com.google.android.gsf",
+        "name": "【Next専用】Google サービスフレームワーク",
+        "url": "https://subcontent.s1204.me/pub/Android/CTZ/GoogleServicesFramework.apk",
+        "description": "チャレンジパッドNext 専用です\n必ず BypassRevokePermission と\nGoogleサービスフレームワーク を先にインストールしてください。"
+      },
+      {
+        "packageName": "com.google.android.gms",
+        "name": "【Next専用】Google Play 開発者サービス",
+        "url": "https://subcontent.s1204.me/pub/Android/CTZ/GmsCore.apk",
+        "description": "チャレンジパッドNext 専用です\n必ず BypassRevokePermission と\nGoogleサービスフレームワーク を先にインストールしてください。"
+      },
+      {
+        "packageName": "com.android.vending",
+        "name": "【Next専用】Google Play ストア",
+        "url": "https://subcontent.s1204.me/pub/Android/CTZ/Phonesky.apk",
+        "description": "チャレンジパッドNext 専用です\n必ず BypassRevokePermission と\nGoogleサービスフレームワーク と\nGoogle Play 開発者サービス を先にインストールしてください。"
       },
       {
         "name": "Android 設定アプリ起動",
