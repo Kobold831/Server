@@ -71,29 +71,29 @@
         "description": "OKを押すと表示される画面でURLを入力してください\n有効な URL および 拡張が”.apk” であればインストールできます"
       },
       {
-        "name": "テストタイトル1",
-        "url": "",
-        "description": "テストメッセージ"
+        "name": "URL を指定してインストール",
+        "url": "MYURL",
+        "description": "OKを押すと表示される画面でURLを入力してください\n有効な URL および 拡張が”.apk” であればインストールできます"
       },
       {
-        "name": "テストタイトル2",
-        "url": "",
-        "description": "テストメッセージ"
+        "name": "URL を指定してインストール",
+        "url": "MYURL",
+        "description": "OKを押すと表示される画面でURLを入力してください\n有効な URL および 拡張が”.apk” であればインストールできます"
       },
       {
-        "name": "テストタイトル3",
-        "url": "",
-        "description": "テストメッセージ"
+        "name": "URL を指定してインストール",
+        "url": "MYURL",
+        "description": "OKを押すと表示される画面でURLを入力してください\n有効な URL および 拡張が”.apk” であればインストールできます"
       },
       {
-        "name": "テストタイトル4",
-        "url": "",
-        "description": "テストメッセージ"
+        "name": "URL を指定してインストール",
+        "url": "MYURL",
+        "description": "OKを押すと表示される画面でURLを入力してください\n有効な URL および 拡張が”.apk” であればインストールできます"
       },
       {
-        "name": "テストタイトル5",
-        "url": "",
-        "description": "テストメッセージ"
+        "name": "URL を指定してインストール",
+        "url": "MYURL",
+        "description": "OKを押すと表示される画面でURLを入力してください\n有効な URL および 拡張が”.apk” であればインストールできます"
       }
     ]
   },
