@@ -13,7 +13,8 @@
       {
         "name": "Nova Launcher (v5)",
         "url": "https://novalauncher.com/apk/NovaLauncher_5.5.4.apk",
-        "description": "一般的なランチャーです\n２・３で使用できます"
+        "description": "一般的なランチャーです\n２・３で使用できます",
+        "targetModel": ["TAB-A0", "TAB-A0", "TAB-A0"]
       },
       {
         "name": "Nova Launcher (v6)",
@@ -122,7 +123,9 @@
         "packageName": "com.saradabar.easyblu",
         "name": "Easy BLU",
         "url": "https://github.com/Kobold831/EasyBLU/releases/download/v3.0.1/EasyBLU-v3.0.1.apk",
-        "description": "チャレンジパッド 3/Neo/Next のブートローダアンロックのフラグを立てます"
+        "description": "チャレンジパッド 3/Neo/Next のブートローダアンロックのフラグを立てます",
+        "targetModel": ["TAB-A0", "TAB-A0", "TAB-A0"],
+        "appOpen": true
       },
       {
         "packageName": "com.saradabar.cpadcustomizetool",
