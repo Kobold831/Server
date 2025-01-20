@@ -14,87 +14,67 @@
         "name": "Nova Launcher (v5)",
         "url": "https://novalauncher.com/apk/NovaLauncher_5.5.4.apk",
         "description": "一般的なランチャーです\n２・３で使用できます",
-        "targetModel": ["TAB-A0", "TAB-A0", "TAB-A0"]
+        "targetModel": ["CT2", "CT3"]
       },
       {
         "name": "Nova Launcher (v6)",
         "url": "https://novalauncher.com/apk/NovaLauncher_6.2.19.apk",
-        "description": "一般的なランチャーです\n２・３で使用できます\n３の一部のビルドでは設定が開けません"
+        "description": "一般的なランチャーです\n２・３で使用できます\n３の一部のビルドでは設定が開けません",
+        "targetModel": ["CT2", "CT3"]
       },
       {
         "name": "Nova Launcher (v7)",
         "url": "https://novalauncher.com/apk/NovaLauncher_7.0.58.apk",
-        "description": "一般的なランチャーです\nNeo・Next で使用できます"
+        "description": "一般的なランチャーです\nNeo・Next で使用できます",
+        "targetModel": ["CTX", "CTZ"]
       },
       {
         "name": "Nova Launcher (v8)",
         "url": "https://novalauncher.com/apk/NovaLauncher_8.0.18.apk",
-        "description": "一般的なランチャーです\nNeo・Next で使用できます"
+        "description": "一般的なランチャーです\nNeo・Next で使用できます",
+        "targetModel": ["CTX", "CTZ"]
       },
       {
         "name": "Brave Browser",
         "url": "https://github.com/brave/brave-browser/releases/latest/download/Bravearm64Universal.apk",
-        "description": "Brave Software のブラウザです\nダウンロードに時間がかかる場合があります"
+        "description": "Brave Software のブラウザです\nダウンロードに時間がかかる場合があります",
+        "targetModel": [""]
       },
       {
         "name": "Files by Google",
         "url": "https://x.gd/gUvRa",
-        "description": "Google のファイラーです\nダウンロードに時間がかかる場合があります"
+        "description": "Google のファイラーです\nダウンロードに時間がかかる場合があります",
+        "targetModel": [""]
       },
       {
         "name": "Dhizuku",
         "url": "https://github.com/iamr0s/Dhizuku/releases/download/v2.8/Dhizuku_v2.8.apk",
-        "description": "Dhizuku はデバイスオーナーを共有できるアプリです\nデバイスオーナーを Dhizuku に変更することをおすすめします\nインストールしたあとは、バージョンを2.9にアップデートしないでください！"
+        "description": "Dhizuku はデバイスオーナーを共有できるアプリです\nデバイスオーナーを Dhizuku に変更することをおすすめします\nインストールしたあとは、バージョンを2.9にアップデートしないでください！",
+        "targetModel": [""]
       },
       {
         "name": "Easy BLU",
         "url": "https://github.com/Kobold831/EasyBLU/releases/download/v3.0.1/EasyBLU-v3.0.1.apk",
-        "description": "チャレンジパッド 3/Neo/Next のブートローダアンロックのフラグを立てます。\n\n※Neo/Next では DchaService が必要です"
+        "description": "チャレンジパッド 3/Neo/Next のブートローダアンロックのフラグを立てます。\n\n※Neo/Next では DchaService が必要です",
+        "targetModel": ["CT3", "CTX", "CTZ"]
       },
       {
         "name": "DchaService Tester",
         "url": "https://github.com/s1204IT/DchaServiceTester/releases/download/v1.4.1/DchaServiceTester-v1.4.1.apk",
-        "description": "DchaService と DchaUtilService の機能を呼び出せます"
+        "description": "DchaService と DchaUtilService の機能を呼び出せます",
+        "targetModel": [""]
       },
       {
         "name": "BenesseExtension Tester",
         "url": "https://github.com/s1204IT/BenesseExtensionTester/releases/download/v2.3.1/BenesseExtensionTester-v2.3.1.apk",
-        "description": "BenesseExtension の機能を呼び出せます"
+        "description": "BenesseExtension の機能を呼び出せます",
+        "targetModel": [""]
       },
       {
         "name": "NextPen",
         "url": "https://github.com/s1204IT/NextPen/releases/download/v1.0.0/NextPen-v1.0.0.apk",
-        "description": "チャレンジパッドNext のペンの電池残量を表示します\n機能が統合され次第、削除します"
-      },
-      {
-        "name": "URL を指定してインストール",
-        "url": "MYURL",
-        "description": "OKを押すと表示される画面でURLを入力してください\n有効な URL および 拡張が”.apk” であればインストールできます"
-      },
-      {
-        "name": "URL を指定してインストール",
-        "url": "MYURL",
-        "description": "OKを押すと表示される画面でURLを入力してください\n有効な URL および 拡張が”.apk” であればインストールできます"
-      },
-      {
-        "name": "URL を指定してインストール",
-        "url": "MYURL",
-        "description": "OKを押すと表示される画面でURLを入力してください\n有効な URL および 拡張が”.apk” であればインストールできます"
-      },
-      {
-        "name": "URL を指定してインストール",
-        "url": "MYURL",
-        "description": "OKを押すと表示される画面でURLを入力してください\n有効な URL および 拡張が”.apk” であればインストールできます"
-      },
-      {
-        "name": "URL を指定してインストール",
-        "url": "MYURL",
-        "description": "OKを押すと表示される画面でURLを入力してください\n有効な URL および 拡張が”.apk” であればインストールできます"
-      },
-      {
-        "name": "URL を指定してインストール",
-        "url": "MYURL",
-        "description": "OKを押すと表示される画面でURLを入力してください\n有効な URL および 拡張が”.apk” であればインストールできます"
+        "description": "チャレンジパッドNext のペンの電池残量を表示します\n機能が統合され次第、削除します",
+        "targetModel": ["CTZ"]
       }
     ]
   },
