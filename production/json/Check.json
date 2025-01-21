@@ -13,73 +13,73 @@
       {
         "name": "Nova Launcher (v5)",
         "url": "https://x.gd/ahSwq",
-        "description": "一般的なランチャーです\n２・３で使用できます",
+        "description": "一般的なランチャーです。チャレンジパッド 2/3 で使用できます。\nダウンロードに時間がかかる場合があります。",
         "targetModel": ["CT2", "CT3"]
       },
       {
         "name": "Nova Launcher (v6)",
         "url": "https://x.gd/kebce",
-        "description": "一般的なランチャーです\n２・３で使用できます\n３の一部のビルドでは設定が開けません",
+        "description": "一般的なランチャーです。チャレンジパッド 2/3 で使用できます。\nチャレンジパッド 3 の一部のビルドでは設定が開けません。\nダウンロードに時間がかかる場合があります。",
         "targetModel": ["CT2", "CT3"]
       },
       {
         "name": "Nova Launcher (v7)",
         "url": "https://novalauncher.com/apk/NovaLauncher_7.0.58.apk",
-        "description": "一般的なランチャーです\nNeo・Next で使用できます",
+        "description": "一般的なランチャーです。チャレンジパッド Neo/Next で使用できます。",
         "targetModel": ["CTX", "CTZ"]
       },
       {
         "name": "Nova Launcher (v8)",
         "url": "https://novalauncher.com/apk/NovaLauncher_8.0.18.apk",
-        "description": "一般的なランチャーです\nNeo・Next で使用できます",
+        "description": "一般的なランチャーです。チャレンジパッド Neo/Next で使用できます。",
         "targetModel": ["CTX", "CTZ"]
       },
       {
         "name": "Brave Browser",
         "url": "https://github.com/brave/brave-browser/releases/latest/download/Bravearm64Universal.apk",
-        "description": "Brave Software のブラウザです\nダウンロードに時間がかかる場合があります",
+        "description": "Brave Software のブラウザです。\nダウンロードに時間がかかる場合があります。",
         "targetModel": [""]
       },
       {
         "name": "Files by Google",
         "url": "https://x.gd/gUvRa",
-        "description": "Google のファイラーです\nダウンロードに時間がかかる場合があります",
+        "description": "Google のファイラーです。\nダウンロードに時間がかかる場合があります。",
         "targetModel": [""]
       },
       {
         "name": "Dhizuku",
         "url": "https://github.com/iamr0s/Dhizuku/releases/download/v2.8/Dhizuku_v2.8.apk",
-        "description": "Dhizuku はデバイスオーナーを共有できるアプリです\nデバイスオーナーを Dhizuku に変更することをおすすめします\nインストールしたあとは、バージョンを2.9にアップデートしないでください！",
+        "description": "Dhizuku はデバイスオーナーを共有できるアプリです。デバイスオーナーを Dhizuku に設定することをおすすめします。\nインストールしたあとは、 Dhizuku のバージョンを 2.9 にアップデートしないでください！",
         "targetModel": [""]
       },
       {
         "name": "Easy BLU",
         "url": "https://github.com/Kobold831/EasyBLU/releases/download/v3.0.1/EasyBLU-v3.0.1.apk",
-        "description": "チャレンジパッド 3/Neo/Next のブートローダアンロックのフラグを立てます。\n\n※Neo/Next では DchaService が必要です",
+        "description": "チャレンジパッド 3/Neo/Next のブートローダアンロックのフラグを立てます。\n注意：Neo/Next では DchaService が必要です。",
         "targetModel": ["CT3", "CTX", "CTZ"]
       },
       {
         "name": "DchaService Tester",
         "url": "https://github.com/s1204IT/DchaServiceTester/releases/download/v1.4.1/DchaServiceTester-v1.4.1.apk",
-        "description": "DchaService と DchaUtilService の機能を呼び出せます",
+        "description": "DchaService と DchaUtilService の機能を呼び出せます。",
         "targetModel": [""]
       },
       {
         "name": "BenesseExtension Tester",
         "url": "https://github.com/s1204IT/BenesseExtensionTester/releases/download/v2.3.1/BenesseExtensionTester-v2.3.1.apk",
-        "description": "BenesseExtension の機能を呼び出せます",
+        "description": "BenesseExtension の機能を呼び出せます。",
         "targetModel": [""]
       },
       {
         "name": "NextPen",
         "url": "https://github.com/s1204IT/NextPen/releases/download/v1.0.0/NextPen-v1.0.0.apk",
-        "description": "チャレンジパッドNext のペンの電池残量を表示します\n機能が統合され次第、削除します",
+        "description": "チャレンジパッド Next のペンの電池残量を表示します。\n機能が統合され次第、削除します。",
         "targetModel": ["CTZ"]
       },
       {
         "name": "URL を指定してインストール",
         "url": "MYURL",
-        "description": "OKを押すと表示される画面でURLを入力してください\n有効な URL および 拡張が”.apk” であればインストールできます",
+        "description": "OK を押すと表示される画面で URL を入力してください。\n有効な URL および、拡張子が apk であればインストールできます。",
         "targetModel": [""]
       }
     ]
@@ -100,7 +100,7 @@
       "versionName": "1.3.0.0",
       "zipUrl": "https://github.com/Kobold831/EnableGPlayWithPC/releases/download/Ver.1.3.0.0/EnableGPlayWithPC-Ver.1.3.0.0-EOS.zip",
       "batUrl": "https://raw.githubusercontent.com/Kobold831/Server/main/production/egp/update/updater.bat",
-      "description": "EOS: サポートを終了しました"
+      "description": "EOS: サポートを終了しました。"
     }
   },
   "setupLogin": {
@@ -109,7 +109,7 @@
         "packageName": "com.saradabar.easyblu",
         "name": "Easy BLU",
         "url": "https://github.com/Kobold831/EasyBLU/releases/download/v3.0.1/EasyBLU-v3.0.1.apk",
-        "description": "チャレンジパッド 3/Neo/Next のブートローダアンロックのフラグを立てます",
+        "description": "チャレンジパッド 3/Neo/Next のブートローダアンロックのフラグを立てます。",
         "targetModel": ["CT3", "CTX", "CTZ"],
         "appOpen": true
       },
@@ -117,7 +117,7 @@
         "packageName": "com.saradabar.cpadcustomizetool",
         "name": "チャレンジパッド総合カスタマイズツール",
         "url": "https://github.com/Kobold831/CPadCustomizeTool/releases/download/v2.5.1/app-release_2.5.1.apk",
-        "description": "チャレンジパッドのさまざまな設定を簡単に変更できます\nそのほかにも機能を提供します",
+        "description": "チャレンジパッドのさまざまな設定を簡単に変更できます。そのほかにも機能を提供します。",
         "targetModel": [""],
         "appOpen": true
       },
@@ -125,7 +125,7 @@
         "packageName": "com.teslacoilsw.launcher",
         "name": "Nova Launcher (v5)",
         "url": "https://x.gd/ahSwq",
-        "description": "一般的なランチャーです\n２・３で使用できます\n３の一部のビルドでは設定が開けません",
+        "description": "一般的なランチャーです。チャレンジパッド 2/3 で使用できます。\nダウンロードに時間がかかる場合があります。",
         "targetModel": ["CT2", "CT3"],
         "appOpen": true
       },
@@ -133,7 +133,7 @@
         "packageName": "com.teslacoilsw.launcher",
         "name": "Nova Launcher (v6)",
         "url": "https://x.gd/kebce",
-        "description": "一般的なランチャーです\n２・３で使用できます",
+        "description": "一般的なランチャーです。チャレンジパッド 2/3 で使用できます。\nチャレンジパッド 3 の一部のビルドでは設定が開けません。\nダウンロードに時間がかかる場合があります。",
         "targetModel": ["CT2", "CT3"],
         "appOpen": true
       },
@@ -141,7 +141,7 @@
         "packageName": "com.teslacoilsw.launcher",
         "name": "Nova Launcher (v7)",
         "url": "https://novalauncher.com/apk/NovaLauncher_7.0.58.apk",
-        "description": "一般的なランチャーです\nNeo・Next で使用できます",
+        "description": "一般的なランチャーです。チャレンジパッド Neo/Next で使用できます。",
         "targetModel": ["CTX", "CTZ"],
         "appOpen": true
       },
@@ -149,7 +149,7 @@
         "packageName": "com.teslacoilsw.launcher",
         "name": "Nova Launcher (v8)",
         "url": "https://novalauncher.com/apk/NovaLauncher_8.0.18.apk",
-        "description": "一般的なランチャーです\nNeo・Next で使用できます",
+        "description": "一般的なランチャーです。チャレンジパッド Neo/Next で使用できます。",
         "targetModel": ["CTX", "CTZ"],
         "appOpen": true
       },
@@ -157,7 +157,7 @@
         "packageName": "com.brave.browser",
         "name": "Brave Browser",
         "url": "https://github.com/brave/brave-browser/releases/latest/download/Bravearm64Universal.apk",
-        "description": "Brave Software のブラウザです\nダウンロードに時間がかかる場合があります",
+        "description": "Brave Software のブラウザです。\nダウンロードに時間がかかる場合があります。",
         "targetModel": [""],
         "appOpen": true
       },
@@ -165,7 +165,7 @@
         "packageName": "me.s1204.benesse.dcha.test",
         "name": "DchaService Tester",
         "url": "https://github.com/s1204IT/DchaServiceTester/releases/download/v1.4.1/DchaServiceTester-v1.4.1.apk",
-        "description": "DchaService と DchaUtilService の機能を呼び出せます",
+        "description": "DchaService と DchaUtilService の機能を呼び出せます。",
         "targetModel": [""],
         "appOpen": true
       },
@@ -173,7 +173,7 @@
         "packageName": "me.s1204.benesse.touch.test",
         "name": "BenesseExtension Tester",
         "url": "https://github.com/s1204IT/BenesseExtensionTester/releases/download/v2.3.1/BenesseExtensionTester-v2.3.1.apk",
-        "description": "BenesseExtension の機能を呼び出せます",
+        "description": "BenesseExtension の機能を呼び出せます。",
         "targetModel": [""],
         "appOpen": true
       },
@@ -181,7 +181,7 @@
         "packageName": "com.rosan.dhizuku",
         "name": "Dhizuku",
         "url": "https://github.com/iamr0s/Dhizuku/releases/download/v2.8/Dhizuku_v2.8.apk",
-        "description": "Dhizuku はデバイスオーナーを共有できるアプリです\nデバイスオーナーを Dhizuku に変更することをおすすめします\nインストールしたあとは、バージョンを2.9にアップデートしないでください！",
+        "description": "Dhizuku はデバイスオーナーを共有できるアプリです。デバイスオーナーを Dhizuku に設定することをおすすめします。\nインストールしたあとは、 Dhizuku のバージョンを 2.9 にアップデートしないでください！",
         "targetModel": [""],
         "appOpen": true
       },
@@ -189,7 +189,7 @@
         "packageName": "com.saradabar.bypassrevokepermission",
         "name": "【Next専用】Bypass Revoke Permission (EOS)",
         "url": "https://github.com/Kobold831/BypassRevokePermission/releases/download/v2.3/app-release_2.3.apk",
-        "description": "ユーザーアプリをシステム権限で動作させます。\nNext のみ利用できます。\nサポート終了済み",
+        "description": "ユーザーアプリをシステム権限で動作させます。\nNext のみ利用できます。\nサポート終了済みです。",
         "targetModel": ["CTZ"],
         "appOpen": false
       },
@@ -197,7 +197,7 @@
         "packageName": "com.google.android.gsf",
         "name": "【Next専用】Google サービスフレームワーク",
         "url": "https://subcontent.s1204.me/pub/Android/CTZ/GoogleServicesFramework.apk",
-        "description": "チャレンジパッドNext 専用です\n必ず BypassRevokePermission と\nGoogleサービスフレームワーク を先にインストールしてください。",
+        "description": "チャレンジパッドNext 専用です。\n必ず BypassRevokePermission と\nGoogleサービスフレームワーク を先にインストールしてください。",
         "targetModel": ["CTZ"],
         "appOpen": false
       },
@@ -205,7 +205,7 @@
         "packageName": "com.google.android.gms",
         "name": "【Next専用】Google Play 開発者サービス",
         "url": "https://subcontent.s1204.me/pub/Android/CTZ/GmsCore.apk",
-        "description": "チャレンジパッドNext 専用です\n必ず BypassRevokePermission と\nGoogleサービスフレームワーク を先にインストールしてください。",
+        "description": "チャレンジパッドNext 専用です。\n必ず BypassRevokePermission と\nGoogleサービスフレームワーク を先にインストールしてください。",
         "targetModel": ["CTZ"],
         "appOpen": false
       },
@@ -213,7 +213,7 @@
         "packageName": "com.android.vending",
         "name": "【Next専用】Google Play ストア",
         "url": "https://subcontent.s1204.me/pub/Android/CTZ/Phonesky.apk",
-        "description": "チャレンジパッドNext 専用です\n必ず BypassRevokePermission と\nGoogleサービスフレームワーク と\nGoogle Play 開発者サービス を先にインストールしてください。",
+        "description": "チャレンジパッドNext 専用です。\n必ず BypassRevokePermission と\nGoogleサービスフレームワーク と\nGoogle Play 開発者サービス を先にインストールしてください。",
         "targetModel": ["CTZ"],
         "appOpen": false
       },
@@ -221,7 +221,7 @@
         "packageName": "",
         "name": "Android 設定アプリ起動",
         "url": "SETTINGS",
-        "description": "開発者オプションをパスワード無しで開けます\nこのアプリに戻る場合は、設定アプリからこのアプリの詳細を開き、その他の設定を押してください",
+        "description": "開発者オプションをパスワード無しで開けます。\nこのアプリに戻る場合は、設定アプリでこのアプリの アプリ情報 を開いて アプリ内のその他の設定 を押してください。",
         "targetModel": [""],
         "appOpen": false
       }
