@@ -204,6 +204,7 @@
         "targetModel": ["CTZ"]
       },
       {
+        "packageName": "",
         "name": "Android 設定アプリ起動",
         "url": "SETTINGS",
         "description": "開発者オプションをパスワード無しで開けます\nこのアプリに戻る場合は、設定アプリからこのアプリの詳細を開き、その他の設定を押してください",
