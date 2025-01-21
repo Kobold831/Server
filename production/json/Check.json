@@ -12,13 +12,13 @@
     "appList": [
       {
         "name": "Nova Launcher (v5)",
-        "url": "https://novalauncher.com/apk/NovaLauncher_5.5.4.apk",
+        "url": "https://x.gd/ahSwq",
         "description": "一般的なランチャーです\n２・３で使用できます",
         "targetModel": ["CT2", "CT3"]
       },
       {
         "name": "Nova Launcher (v6)",
-        "url": "https://novalauncher.com/apk/NovaLauncher_6.2.19.apk",
+        "url": "https://x.gd/kebce",
         "description": "一般的なランチャーです\n２・３で使用できます\n３の一部のビルドでは設定が開けません",
         "targetModel": ["CT2", "CT3"]
       },
@@ -124,7 +124,7 @@
       {
         "packageName": "com.teslacoilsw.launcher",
         "name": "Nova Launcher (v5)",
-        "url": "https://novalauncher.com/apk/NovaLauncher_5.5.4.apk",
+        "url": "https://x.gd/ahSwq",
         "description": "一般的なランチャーです\n２・３で使用できます\n３の一部のビルドでは設定が開けません",
         "targetModel": ["CT2", "CT3"],
         "appOpen": true
@@ -132,7 +132,7 @@
       {
         "packageName": "com.teslacoilsw.launcher",
         "name": "Nova Launcher (v6)",
-        "url": "https://novalauncher.com/apk/NovaLauncher_6.2.19.apk",
+        "url": "https://x.gd/kebce",
         "description": "一般的なランチャーです\n２・３で使用できます",
         "targetModel": ["CT2", "CT3"],
         "appOpen": true
