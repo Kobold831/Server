@@ -38,7 +38,7 @@
         "name": "Brave Browser",
         "url": "https://github.com/brave/brave-browser/releases/latest/download/Bravearm64Universal.apk",
         "description": "Brave Software のブラウザです。\nダウンロードに時間がかかる場合があります。",
-        "targetModel": [""]
+        "targetModel": ["CT3", "CTX", "CTZ"]
       },
       {
         "name": "Files by Google",
@@ -50,7 +50,7 @@
         "name": "Dhizuku",
         "url": "https://github.com/iamr0s/Dhizuku/releases/download/v2.8/Dhizuku_v2.8.apk",
         "description": "Dhizuku はデバイスオーナーを共有できるアプリです。デバイスオーナーを Dhizuku に設定することをおすすめします。\nインストールしたあとは、 Dhizuku のバージョンを 2.9 にアップデートしないでください！",
-        "targetModel": [""]
+        "targetModel": ["CT2", "CTX", "CTZ"]
       },
       {
         "name": "Easy BLU",
@@ -68,7 +68,7 @@
         "name": "BenesseExtension Tester",
         "url": "https://github.com/s1204IT/BenesseExtensionTester/releases/download/v2.3.1/BenesseExtensionTester-v2.3.1.apk",
         "description": "BenesseExtension の機能を呼び出せます。",
-        "targetModel": [""]
+        "targetModel": ["CT3", "CTX", "CTZ"]
       },
       {
         "name": "NextPen",
@@ -158,7 +158,7 @@
         "name": "Brave Browser",
         "url": "https://github.com/brave/brave-browser/releases/latest/download/Bravearm64Universal.apk",
         "description": "Brave Software のブラウザです。\nダウンロードに時間がかかる場合があります。",
-        "targetModel": [""],
+        "targetModel": ["CT3", "CTX", "CTZ"],
         "appOpen": true
       },
       {
@@ -174,7 +174,7 @@
         "name": "BenesseExtension Tester",
         "url": "https://github.com/s1204IT/BenesseExtensionTester/releases/download/v2.3.1/BenesseExtensionTester-v2.3.1.apk",
         "description": "BenesseExtension の機能を呼び出せます。",
-        "targetModel": [""],
+        "targetModel": ["CT3", "CTX", "CTZ"],
         "appOpen": true
       },
       {
@@ -182,7 +182,7 @@
         "name": "Dhizuku",
         "url": "https://github.com/iamr0s/Dhizuku/releases/download/v2.8/Dhizuku_v2.8.apk",
         "description": "Dhizuku はデバイスオーナーを共有できるアプリです。デバイスオーナーを Dhizuku に設定することをおすすめします。\nインストールしたあとは、 Dhizuku のバージョンを 2.9 にアップデートしないでください！",
-        "targetModel": [""],
+        "targetModel": ["CT2", "CTX", "CTZ"],
         "appOpen": true
       },
       {
