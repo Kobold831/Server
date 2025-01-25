@@ -191,7 +191,7 @@
         "url": "https://github.com/s1204IT/DchaStateReceiver/releases/download/v1.1.0/DchaStateReceiver.apk",
         "description": "DchaState を 3 で固定します。\nNeo / Next で利用できます。\nサポート終了済みです。",
         "targetModel": ["CTX", "CTZ"],
-        "appOpen": false
+        "appOpen": true
       },
       {
         "packageName": "com.saradabar.bypassrevokepermission",
@@ -199,7 +199,7 @@
         "url": "https://github.com/Kobold831/BypassRevokePermission/releases/download/v2.3/app-release_2.3.apk",
         "description": "ユーザーアプリをシステム権限で動作させます。\nNext のみ利用できます。\nサポート終了済みです。",
         "targetModel": ["CTZ"],
-        "appOpen": false
+        "appOpen": true
       },
       {
         "packageName": "com.google.android.gsf",
