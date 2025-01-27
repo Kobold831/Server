@@ -59,6 +59,18 @@
         "targetModel": ["CT3", "CTX", "CTZ"]
       },
       {
+        "name": "Termux (Android 5)",
+        "url": "https://github.com/termux/termux-app/releases/download/v0.119.0-beta.1/termux-app_v0.119.0-beta.1+apt-android-5-github-debug_armeabi-v7a.apk",
+        "description": "チャレンジパッド２用 Termux (ベータ版)",
+        "targetModel": ["CT2"]
+      },
+      {
+        "name": "Termux (Android 7+)",
+        "url": "https://github.com/termux/termux-app/releases/download/v0.119.0-beta.1/termux-app_v0.119.0-beta.1+apt-android-7-github-debug_arm64-v8a.apk",
+        "description": "チャレンジパッド３/Neo/Next用 Termux (ベータ版)",
+        "targetModel": ["CT3", "CTX", "CTZ"]
+      },
+      {
         "name": "DchaService Tester",
         "url": "https://github.com/s1204IT/DchaServiceTester/releases/download/v1.4.1/DchaServiceTester-v1.4.1.apk",
         "description": "DchaService と DchaUtilService の機能を呼び出せます。",
@@ -162,6 +174,22 @@
         "appOpen": true
       },
       {
+        "packageName": "com.termux",
+        "name": "Termux (Android 5)",
+        "url": "https://github.com/termux/termux-app/releases/download/v0.119.0-beta.1/termux-app_v0.119.0-beta.1+apt-android-5-github-debug_armeabi-v7a.apk",
+        "description": "チャレンジパッド２用 Termux (ベータ版)",
+        "targetModel": ["CT2"],
+        "appOpen": true
+      },
+      {
+        "packageName": "com.termux",
+        "name": "Termux (Android 7+)",
+        "url": "https://github.com/termux/termux-app/releases/download/v0.119.0-beta.1/termux-app_v0.119.0-beta.1+apt-android-7-github-debug_arm64-v8a.apk",
+        "description": "チャレンジパッド３/Neo/Next用 Termux (ベータ版)",
+        "targetModel": ["CT3", "CTX", "CTZ"],
+        "appOpen": true
+      },
+      {
         "packageName": "me.s1204.benesse.dcha.test",
         "name": "DchaService Tester",
         "url": "https://github.com/s1204IT/DchaServiceTester/releases/download/v1.4.1/DchaServiceTester-v1.4.1.apk",
@@ -183,46 +211,6 @@
         "url": "https://github.com/iamr0s/Dhizuku/releases/download/v2.8/Dhizuku_v2.8.apk",
         "description": "Dhizuku はデバイスオーナーを共有できるアプリです。デバイスオーナーを Dhizuku に設定することをおすすめします。\nインストールしたあとは、 Dhizuku のバージョンを 2.9 にアップデートしないでください！",
         "targetModel": ["CT2", "CTX", "CTZ"],
-        "appOpen": true
-      },
-      {
-        "packageName": "me.s1204.benesse.dcha.receiver",
-        "name": "【Next用】DchaState Receiver (EOS)",
-        "url": "https://github.com/s1204IT/DchaStateReceiver/releases/download/v1.1.0/DchaStateReceiver.apk",
-        "description": "DchaState を 3 で固定します。\nNeo / Next で利用できます。\nサポート終了済みです。",
-        "targetModel": ["CTX", "CTZ"],
-        "appOpen": true
-      },
-      {
-        "packageName": "com.saradabar.bypassrevokepermission",
-        "name": "【Next専用】Bypass Revoke Permission (EOS)",
-        "url": "https://github.com/Kobold831/BypassRevokePermission/releases/download/v2.3/app-release_2.3.apk",
-        "description": "ユーザーアプリをシステム権限で動作させます。\nNext のみ利用できます。\nサポート終了済みです。",
-        "targetModel": ["CTZ"],
-        "appOpen": true
-      },
-      {
-        "packageName": "com.google.android.gsf",
-        "name": "【Next専用】Google サービスフレームワーク",
-        "url": "https://subcontent.s1204.me/pub/Android/CTZ/GoogleServicesFramework.apk",
-        "description": "チャレンジパッドNext 専用です。\n必ず BypassRevokePermission と\nGoogleサービスフレームワーク を先にインストールしてください。",
-        "targetModel": ["CTZ"],
-        "appOpen": false
-      },
-      {
-        "packageName": "com.google.android.gms",
-        "name": "【Next専用】Google Play 開発者サービス",
-        "url": "https://subcontent.s1204.me/pub/Android/CTZ/GmsCore.apk",
-        "description": "チャレンジパッドNext 専用です。\n必ず BypassRevokePermission と\nGoogleサービスフレームワーク を先にインストールしてください。",
-        "targetModel": ["CTZ"],
-        "appOpen": false
-      },
-      {
-        "packageName": "com.android.vending",
-        "name": "【Next専用】Google Play ストア",
-        "url": "https://subcontent.s1204.me/pub/Android/CTZ/Phonesky.apk",
-        "description": "チャレンジパッドNext 専用です。\n必ず BypassRevokePermission と\nGoogleサービスフレームワーク と\nGoogle Play 開発者サービス を先にインストールしてください。",
-        "targetModel": ["CTZ"],
         "appOpen": true
       },
       {
