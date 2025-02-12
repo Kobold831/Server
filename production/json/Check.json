@@ -59,31 +59,19 @@
         "targetModel": ["CT3", "CTX", "CTZ"]
       },
       {
-        "name": "Termux (Android 5)",
-        "url": "https://github.com/termux/termux-app/releases/download/v0.119.0-beta.1/termux-app_v0.119.0-beta.1+apt-android-5-github-debug_armeabi-v7a.apk",
-        "description": "チャレンジパッド２用 Termux (ベータ版)",
-        "targetModel": ["CT2"]
-      },
-      {
-        "name": "Termux (Android 7+)",
-        "url": "https://github.com/termux/termux-app/releases/download/v0.119.0-beta.1/termux-app_v0.119.0-beta.1+apt-android-7-github-debug_arm64-v8a.apk",
-        "description": "チャレンジパッド３/Neo/Next用 Termux (ベータ版)",
-        "targetModel": ["CT3", "CTX", "CTZ"]
-      },
-      {
-        "name": "DchaService Tester",
-        "url": "https://github.com/s1204IT/DchaServiceTester/releases/download/v1.4.1/DchaServiceTester-v1.4.1.apk",
+        "name": "[EOS] DchaService Tester",
+        "url": "https://github.com/s1204IT/DchaServiceTester/releases/download/v1.4.3/DchaServiceTester-v1.4.3.apk",
         "description": "DchaService と DchaUtilService の機能を呼び出せます。",
         "targetModel": [""]
       },
       {
-        "name": "BenesseExtension Tester",
+        "name": "[EOS] BenesseExtension Tester",
         "url": "https://github.com/s1204IT/BenesseExtensionTester/releases/download/v2.3.1/BenesseExtensionTester-v2.3.1.apk",
         "description": "BenesseExtension の機能を呼び出せます。",
         "targetModel": ["CT3", "CTX", "CTZ"]
       },
       {
-        "name": "NextPen",
+        "name": "[EOS] NextPen",
         "url": "https://github.com/s1204IT/NextPen/releases/download/v1.0.0/NextPen-v1.0.0.apk",
         "description": "チャレンジパッド Next のペンの電池残量を表示します。\n機能が統合され次第、削除します。",
         "targetModel": ["CTZ"]
@@ -174,32 +162,16 @@
         "appOpen": true
       },
       {
-        "packageName": "com.termux",
-        "name": "Termux (Android 5)",
-        "url": "https://github.com/termux/termux-app/releases/download/v0.119.0-beta.1/termux-app_v0.119.0-beta.1+apt-android-5-github-debug_armeabi-v7a.apk",
-        "description": "チャレンジパッド２用 Termux (ベータ版)",
-        "targetModel": ["CT2"],
-        "appOpen": true
-      },
-      {
-        "packageName": "com.termux",
-        "name": "Termux (Android 7+)",
-        "url": "https://github.com/termux/termux-app/releases/download/v0.119.0-beta.1/termux-app_v0.119.0-beta.1+apt-android-7-github-debug_arm64-v8a.apk",
-        "description": "チャレンジパッド３/Neo/Next用 Termux (ベータ版)",
-        "targetModel": ["CT3", "CTX", "CTZ"],
-        "appOpen": true
-      },
-      {
         "packageName": "me.s1204.benesse.dcha.test",
-        "name": "DchaService Tester",
-        "url": "https://github.com/s1204IT/DchaServiceTester/releases/download/v1.4.1/DchaServiceTester-v1.4.1.apk",
+        "name": "[EOS] DchaService Tester",
+        "url": "https://github.com/s1204IT/DchaServiceTester/releases/download/v1.4.3/DchaServiceTester-v1.4.3.apk",
         "description": "DchaService と DchaUtilService の機能を呼び出せます。",
         "targetModel": [""],
         "appOpen": true
       },
       {
         "packageName": "me.s1204.benesse.touch.test",
-        "name": "BenesseExtension Tester",
+        "name": "[EOS] BenesseExtension Tester",
         "url": "https://github.com/s1204IT/BenesseExtensionTester/releases/download/v2.3.1/BenesseExtensionTester-v2.3.1.apk",
         "description": "BenesseExtension の機能を呼び出せます。",
         "targetModel": ["CT3", "CTX", "CTZ"],
