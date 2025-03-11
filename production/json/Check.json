@@ -47,6 +47,12 @@
         "targetModel": [""]
       },
       {
+        "name": "DchaTransManager",
+        "url": "https://github.com/s1204IT/DchaTransManager/releases/download/v4.0.0/DchaTransManager-v4.0.0.apk",
+        "description": "学習環境との両立をサポートするアプリです。\n小学講座のみ対応しています。\nNova Launcher が必要です。",
+        "targetModel": ["CT3", "CTZ"]
+      },
+      {
         "name": "Dhizuku",
         "url": "https://github.com/iamr0s/Dhizuku/releases/download/v2.8/Dhizuku_v2.8.apk",
         "description": "Dhizuku はデバイスオーナーを共有できるアプリです。デバイスオーナーを Dhizuku に設定することをおすすめします。\nインストールしたあとは、 Dhizuku のバージョンを 2.9 にアップデートしないでください！",
@@ -54,14 +60,8 @@
       },
       {
         "name": "Easy BLU",
-        "url": "https://github.com/Kobold831/EasyBLU/releases/download/v3.0.1/EasyBLU-v3.0.1.apk",
+        "url": "https://github.com/Kobold831/EasyBLU/releases/download/v3.1.0/EasyBLU-v3.1.0.apk",
         "description": "チャレンジパッド 3/Neo/Next のブートローダアンロックのフラグを立てます。\n注意：Neo/Next では DchaService が必要です。",
-        "targetModel": ["CT3", "CTX", "CTZ"]
-      },
-      {
-        "name": "【ベータ版】Easy BLU",
-        "url": "https://github.com/Kobold831/EasyBLU/releases/download/v3.1.0-pre/EasyBLU-v3.1.0-pre.apk",
-        "description": "チャレンジパッド 3/Neo/Next のブートローダアンロックのフラグを立てます。\nBenesseExtension の制限も回避します。",
         "targetModel": ["CT3", "CTX", "CTZ"]
       },
       {
@@ -114,16 +114,8 @@
       {
         "packageName": "com.saradabar.easyblu",
         "name": "Easy BLU",
-        "url": "https://github.com/Kobold831/EasyBLU/releases/download/v3.0.1/EasyBLU-v3.0.1.apk",
+        "url": "https://github.com/Kobold831/EasyBLU/releases/download/v3.1.0/EasyBLU-v3.1.0.apk",
         "description": "チャレンジパッド 3/Neo/Next のブートローダアンロックのフラグを立てます。",
-        "targetModel": ["CT3", "CTX", "CTZ"],
-        "appOpen": true
-      },
-      {
-        "packageName": "com.saradabar.easyblu",
-        "name": "【ベータ版】Easy BLU",
-        "url": "https://github.com/Kobold831/EasyBLU/releases/download/v3.1.0-pre/EasyBLU-v3.1.0-pre.apk",
-        "description": "チャレンジパッド 3/Neo/Next のブートローダアンロックのフラグを立てます。\nBenesseExtension の制限も回避します。",
         "targetModel": ["CT3", "CTX", "CTZ"],
         "appOpen": true
       },
