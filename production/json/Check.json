@@ -59,13 +59,19 @@
         "targetModel": ["CT3", "CTX", "CTZ"]
       },
       {
-        "name": "[EOS] DchaService Tester",
+        "name": "【ベータ版】Easy BLU",
+        "url": "https://github.com/Kobold831/EasyBLU/releases/download/v3.1.0-pre/EasyBLU-v3.1.0-pre.apk",
+        "description": "チャレンジパッド 3/Neo/Next のブートローダアンロックのフラグを立てます。\nBenesseExtension の制限も回避します。",
+        "targetModel": ["CT3", "CTX", "CTZ"]
+      },
+      {
+        "name": "DchaService Tester",
         "url": "https://github.com/s1204IT/DchaServiceTester/releases/download/v1.4.3/DchaServiceTester-v1.4.3.apk",
         "description": "DchaService と DchaUtilService の機能を呼び出せます。",
         "targetModel": [""]
       },
       {
-        "name": "[EOS] BenesseExtension Tester",
+        "name": "BenesseExtension Tester",
         "url": "https://github.com/s1204IT/BenesseExtensionTester/releases/download/v2.3.1/BenesseExtensionTester-v2.3.1.apk",
         "description": "BenesseExtension の機能を呼び出せます。",
         "targetModel": ["CT3", "CTX", "CTZ"]
@@ -110,6 +116,14 @@
         "name": "Easy BLU",
         "url": "https://github.com/Kobold831/EasyBLU/releases/download/v3.0.1/EasyBLU-v3.0.1.apk",
         "description": "チャレンジパッド 3/Neo/Next のブートローダアンロックのフラグを立てます。",
+        "targetModel": ["CT3", "CTX", "CTZ"],
+        "appOpen": true
+      },
+      {
+        "packageName": "com.saradabar.easyblu",
+        "name": "【ベータ版】Easy BLU",
+        "url": "https://github.com/Kobold831/EasyBLU/releases/download/v3.1.0-pre/EasyBLU-v3.1.0-pre.apk",
+        "description": "チャレンジパッド 3/Neo/Next のブートローダアンロックのフラグを立てます。\nBenesseExtension の制限も回避します。",
         "targetModel": ["CT3", "CTX", "CTZ"],
         "appOpen": true
       },
@@ -163,7 +177,7 @@
       },
       {
         "packageName": "me.s1204.benesse.dcha.test",
-        "name": "[EOS] DchaService Tester",
+        "name": "DchaService Tester",
         "url": "https://github.com/s1204IT/DchaServiceTester/releases/download/v1.4.3/DchaServiceTester-v1.4.3.apk",
         "description": "DchaService と DchaUtilService の機能を呼び出せます。",
         "targetModel": [""],
@@ -171,7 +185,7 @@
       },
       {
         "packageName": "me.s1204.benesse.touch.test",
-        "name": "[EOS] BenesseExtension Tester",
+        "name": "BenesseExtension Tester",
         "url": "https://github.com/s1204IT/BenesseExtensionTester/releases/download/v2.3.1/BenesseExtensionTester-v2.3.1.apk",
         "description": "BenesseExtension の機能を呼び出せます。",
         "targetModel": ["CT3", "CTX", "CTZ"],
