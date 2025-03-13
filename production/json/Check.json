@@ -3,8 +3,8 @@
     "update": {
       "versionCode": 59,
       "versionName": "2.5.2",
-      "url": "https://github.com/Kobold831/CPadCustomizeTool/releases/download/v2.5.2/CPadCustomizeTool-v2.5.2.apk",
-      "description": "・デバイス情報 の項目を追加\n・.apks のインストールに対応\n・その他改善"
+      "url": "https://github.com/Kobold831/CPadCustomizeTool/releases/download/v2.6.0/CPadCustomizeTool-v2.6.0.apk",
+      "description": "・BenesseExtension の処理を優先\n・AndroidX を使用\n・依存関係の更新\n・再起動/緊急モードのショートカットオーバービューを追加\n・標準モード/緊急モードをボタンコンボで起動可能に\n・条件分岐処理を修正"
     },
     "support": {
       "supportCode": 0
@@ -122,7 +122,7 @@
       {
         "packageName": "com.saradabar.cpadcustomizetool",
         "name": "チャレンジパッド総合カスタマイズツール",
-        "url": "https://github.com/Kobold831/CPadCustomizeTool/releases/download/v2.5.2/CPadCustomizeTool-v2.5.2.apk",
+        "url": "https://github.com/Kobold831/CPadCustomizeTool/releases/download/v2.6.0/CPadCustomizeTool-v2.6.0.apk",
         "description": "チャレンジパッドのさまざまな設定を簡単に変更できます。そのほかにも機能を提供します。",
         "targetModel": [""],
         "appOpen": true
