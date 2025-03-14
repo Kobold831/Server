@@ -1,7 +1,7 @@
 {
   "ct": {
     "update": {
-      "versionCode": 61,
+      "versionCode": 62,
       "versionName": "2.6.2",
       "url": "https://github.com/Kobold831/CPadCustomizeTool/releases/download/v2.6.2/CPadCustomizeTool-v2.6.2.apk",
       "description": "・利用規約の更新\n・UI を改善\n・再起動/緊急モードのショートカットオーバービューを追加\n・標準モード/緊急モードをボタンコンボで起動可能に\n・その他動作の改善"
