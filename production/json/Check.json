@@ -47,12 +47,6 @@
         "targetModel": [""]
       },
       {
-        "name": "DchaTransManager",
-        "url": "https://github.com/s1204IT/DchaTransManager/releases/download/v4.0.0/DchaTransManager-v4.0.0.apk",
-        "description": "学習環境との両立をサポートするアプリです。\n小学講座のみ対応しています。\nNova Launcher が必要です。",
-        "targetModel": ["CT3", "CTZ"]
-      },
-      {
         "name": "Dhizuku",
         "url": "https://github.com/iamr0s/Dhizuku/releases/download/v2.8/Dhizuku_v2.8.apk",
         "description": "Dhizuku はデバイスオーナーを共有できるアプリです。デバイスオーナーを Dhizuku に設定することをおすすめします。\nインストールしたあとは、 Dhizuku のバージョンを 2.9 にアップデートしないでください！",
