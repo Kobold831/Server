@@ -47,16 +47,28 @@
         "targetModel": [""]
       },
       {
+        "name": "Easy BLU",
+        "url": "https://github.com/Kobold831/EasyBLU/releases/download/v3.1.0/EasyBLU-v3.1.0.apk",
+        "description": "チャレンジパッド 3/Neo/Next のブートローダアンロックのフラグを立てます。\n注意：Neo/Next では DchaService が必要です。",
+        "targetModel": ["CT3", "CTX", "CTZ"]
+      },
+      {
         "name": "Dhizuku",
         "url": "https://github.com/iamr0s/Dhizuku/releases/download/v2.8/Dhizuku_v2.8.apk",
         "description": "Dhizuku はデバイスオーナーを共有できるアプリです。デバイスオーナーを Dhizuku に設定することをおすすめします。\nインストールしたあとは、 Dhizuku のバージョンを 2.9 にアップデートしないでください！",
         "targetModel": ["CT2", "CTX", "CTZ"]
       },
       {
-        "name": "Easy BLU",
-        "url": "https://github.com/Kobold831/EasyBLU/releases/download/v3.1.0/EasyBLU-v3.1.0.apk",
-        "description": "チャレンジパッド 3/Neo/Next のブートローダアンロックのフラグを立てます。\n注意：Neo/Next では DchaService が必要です。",
-        "targetModel": ["CT3", "CTX", "CTZ"]
+        "name": "Test DPC",
+        "url": "https://github.com/googlesamples/android-testdpc/releases/download/v7.0.2/TestDPC_7002.apk",
+        "description": "端末所有者の機能を管理できます",
+        "targetModel": ["CT2"]
+      },
+      {
+        "name": "Test DPC",
+        "url": "https://github.com/googlesamples/android-testdpc/releases/download/v9.0.12/TestDPC_9.0.12.apk",
+        "description": "端末所有者の機能を管理できます",
+        "targetModel": ["CTX", "CTZ"]
       },
       {
         "name": "DchaService Tester",
@@ -184,6 +196,22 @@
         "description": "Dhizuku はデバイスオーナーを共有できるアプリです。デバイスオーナーを Dhizuku に設定することをおすすめします。\nインストールしたあとは、 Dhizuku のバージョンを 2.9 にアップデートしないでください！",
         "targetModel": ["CT2", "CTX", "CTZ"],
         "appOpen": true
+      },
+      {
+        "packageName": "com.afwsamples.testdpc",
+        "name": "Test DPC",
+        "url": "https://github.com/googlesamples/android-testdpc/releases/download/v7.0.2/TestDPC_7002.apk",
+        "description": "端末所有者の機能を管理できます",
+        "targetModel": ["CT2"],
+        "appOpen": false
+      },
+      {
+        "packageName": "com.afwsamples.testdpc",
+        "name": "Test DPC",
+        "url": "https://github.com/googlesamples/android-testdpc/releases/download/v9.0.12/TestDPC_9.0.12.apk",
+        "description": "端末所有者の機能を管理できます",
+        "targetModel": ["CTX", "CTZ"],
+        "appOpen": false
       },
       {
         "packageName": "",
