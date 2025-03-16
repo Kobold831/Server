@@ -65,6 +65,12 @@
         "targetModel": ["CT2", "CTX", "CTZ"]
       },
       {
+        "name": "Shizuku",
+        "url": "https://github.com/RikkaApps/Shizuku/releases/download/v13.5.4/shizuku-v13.5.4.r1049.0e53409-release.apk",
+        "description": "アプリ内でADBを実行できます。\n端末再起動毎にPCから特定のコマンドを実行してサーバーを起動する必要があります。",
+        "targetModel": ["CTX", "CTZ"]
+      },
+      {
         "name": "Test DPC",
         "url": "https://github.com/googlesamples/android-testdpc/releases/download/v7.0.2/TestDPC_7002.apk",
         "description": "端末所有者の機能を管理できます",
@@ -209,6 +215,14 @@
         "url": "https://github.com/iamr0s/Dhizuku/releases/download/v2.8/Dhizuku_v2.8.apk",
         "description": "Dhizuku はデバイスオーナーを共有できるアプリです。デバイスオーナーを Dhizuku に設定することをおすすめします。\nインストールしたあとは、 Dhizuku のバージョンを 2.9 にアップデートしないでください！",
         "targetModel": ["CT2", "CTX", "CTZ"],
+        "appOpen": true
+      },
+      {
+        "packageName": "moe.shizuku.privileged.api",
+        "name": "Shizuku",
+        "url": "https://github.com/RikkaApps/Shizuku/releases/download/v13.5.4/shizuku-v13.5.4.r1049.0e53409-release.apk",
+        "description": "アプリ内でADBを実行できます。\n端末再起動毎にPCから特定のコマンドを実行してサーバーを起動する必要があります。",
+        "targetModel": ["CTX", "CTZ"],
         "appOpen": true
       },
       {
