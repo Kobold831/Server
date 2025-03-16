@@ -35,6 +35,12 @@
         "targetModel": ["CTX", "CTZ"]
       },
       {
+        "name": "Aurora Store",
+        "url": "https://auroraoss.com/downloads/AuroraStore/Release/AuroraStore-4.6.4.apk",
+        "description": "Google Play の代替アプリストア",
+        "targetModel": [""]
+      },
+      {
         "name": "Brave Browser",
         "url": "https://github.com/brave/brave-browser/releases/latest/download/Bravearm64Universal.apk",
         "description": "Brave Software のブラウザです。\nダウンロードに時間がかかる場合があります。",
@@ -163,6 +169,14 @@
         "url": "https://novalauncher.com/apk/NovaLauncher_8.0.18.apk",
         "description": "一般的なランチャーです。チャレンジパッド Neo/Next で使用できます。",
         "targetModel": ["CTX", "CTZ"],
+        "appOpen": true
+      },
+      {
+        "packageName": "com.aurora.store",
+        "name": "Aurora Store",
+        "url": "https://auroraoss.com/downloads/AuroraStore/Release/AuroraStore-4.6.4.apk",
+        "description": "Google Play の代替アプリストア",
+        "targetModel": [""],
         "appOpen": true
       },
       {
