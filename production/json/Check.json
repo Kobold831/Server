@@ -68,7 +68,7 @@
         "name": "Shizuku",
         "url": "https://github.com/RikkaApps/Shizuku/releases/download/v13.5.4/shizuku-v13.5.4.r1049.0e53409-release.apk",
         "description": "アプリ内でADBを実行できます。\n端末再起動毎にPCから特定のコマンドを実行してサーバーを起動する必要があります。",
-        "targetModel": ["CTX", "CTZ"]
+        "targetModel": ["CT3", "CTX", "CTZ"]
       },
       {
         "name": "Test DPC",
@@ -222,7 +222,7 @@
         "name": "Shizuku",
         "url": "https://github.com/RikkaApps/Shizuku/releases/download/v13.5.4/shizuku-v13.5.4.r1049.0e53409-release.apk",
         "description": "アプリ内でADBを実行できます。\n端末再起動毎にPCから特定のコマンドを実行してサーバーを起動する必要があります。",
-        "targetModel": ["CTX", "CTZ"],
+        "targetModel": ["CT3", "CTX", "CTZ"],
         "appOpen": true
       },
       {
