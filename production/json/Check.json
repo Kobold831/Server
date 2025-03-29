@@ -36,7 +36,7 @@
       },
       {
         "name": "Aurora Store",
-        "url": "https://auroraoss.com/downloads/AuroraStore/Release/AuroraStore-4.6.4.apk",
+        "url": "https://auroraoss.com/downloads/AuroraStore/Release/AuroraStore-4.7.0.apk",
         "description": "Google Play の代替アプリストア",
         "targetModel": [""]
       },
@@ -180,7 +180,7 @@
       {
         "packageName": "com.aurora.store",
         "name": "Aurora Store",
-        "url": "https://auroraoss.com/downloads/AuroraStore/Release/AuroraStore-4.6.4.apk",
+        "url": "https://auroraoss.com/downloads/AuroraStore/Release/AuroraStore-4.7.0.apk",
         "description": "Google Play の代替アプリストア",
         "targetModel": [""],
         "appOpen": true
