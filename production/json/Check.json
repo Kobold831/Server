@@ -1,10 +1,10 @@
 {
   "ct": {
     "update": {
-      "versionCode": 63,
-      "versionName": "2.6.3",
-      "url": "https://github.com/Kobold831/CPadCustomizeTool/releases/download/v2.6.3/CPadCustomizeTool-v2.6.3.apk",
-      "description": "・クラッシュログを改善\n・その他改善および修正"
+      "versionCode": 62,
+      "versionName": "2.6.2",
+      "url": "https://github.com/Kobold831/CPadCustomizeTool/releases/download/v2.6.2/CPadCustomizeTool-v2.6.2.apk",
+      "description": "・モードチェンジのアイコンを変更\n・改善および修正"
     },
     "support": {
       "supportCode": 0
@@ -140,7 +140,7 @@
       {
         "packageName": "com.saradabar.cpadcustomizetool",
         "name": "チャレンジパッド総合カスタマイズツール",
-        "url": "https://github.com/Kobold831/CPadCustomizeTool/releases/download/v2.6.3/CPadCustomizeTool-v2.6.3.apk",
+        "url": "https://github.com/Kobold831/CPadCustomizeTool/releases/download/v2.6.2/CPadCustomizeTool-v2.6.2.apk",
         "description": "チャレンジパッドのさまざまな設定を簡単に変更できます。",
         "targetModel": [""],
         "appOpen": true
