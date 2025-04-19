@@ -96,7 +96,7 @@
       },
       {
         "name": "[EOS] NextPen",
-        "url": "https://github.com/s1204IT/NextPen/releases/download/v1.0.0/NextPen-v1.0.0.apk",
+        "url": "https://github.com/s1204IT/NextPen/releases/download/v1.0.1/NextPen-v1.0.1.apk",
         "description": "チャレンジパッド Next のペンの電池残量を表示します。\n機能が統合され次第、削除します。",
         "targetModel": ["CTZ"]
       },
