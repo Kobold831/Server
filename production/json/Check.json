@@ -12,13 +12,13 @@
     "appList": [
       {
         "name": "Nova Launcher (v5)",
-        "url": "https://x.gd/ahSwq",
+        "url": "https://github.com/Kobold831/Server/releases/download/redist/NovaLauncher_5.5.4.apk",
         "description": "一般的なランチャーです。チャレンジパッド 2/3 で使用できます。\nダウンロードに時間がかかる場合があります。",
         "targetModel": ["CT2", "CT3"]
       },
       {
         "name": "Nova Launcher (v6)",
-        "url": "https://x.gd/kebce",
+        "url": "https://github.com/Kobold831/Server/releases/download/redist/NovaLauncher_6.2.19.apk",
         "description": "一般的なランチャーです。チャレンジパッド 2/3 で使用できます。\nチャレンジパッド 3 の一部のビルドでは設定が開けません。\nダウンロードに時間がかかる場合があります。",
         "targetModel": ["CT2", "CT3"]
       },
@@ -48,7 +48,7 @@
       },
       {
         "name": "Files by Google",
-        "url": "https://x.gd/gUvRa",
+        "url": "https://github.com/Kobold831/Server/releases/download/redist/Files.apk",
         "description": "Google のファイラーです。\nダウンロードに時間がかかる場合があります。",
         "targetModel": [""]
       },
@@ -148,7 +148,7 @@
       {
         "packageName": "com.teslacoilsw.launcher",
         "name": "Nova Launcher (v5)",
-        "url": "https://x.gd/ahSwq",
+        "url": "https://github.com/Kobold831/Server/releases/download/redist/NovaLauncher_5.5.4.apk",
         "description": "一般的なランチャーです。チャレンジパッド 2/3 で使用できます。\nダウンロードに時間がかかる場合があります。",
         "targetModel": ["CT2", "CT3"],
         "appOpen": true
@@ -156,7 +156,7 @@
       {
         "packageName": "com.teslacoilsw.launcher",
         "name": "Nova Launcher (v6)",
-        "url": "https://x.gd/kebce",
+        "url": "https://github.com/Kobold831/Server/releases/download/redist/NovaLauncher_6.2.19.apk",
         "description": "一般的なランチャーです。チャレンジパッド 2/3 で使用できます。\nチャレンジパッド 3 の一部のビルドでは設定が開けません。\nダウンロードに時間がかかる場合があります。",
         "targetModel": ["CT2", "CT3"],
         "appOpen": true
