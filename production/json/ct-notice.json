@@ -18,13 +18,13 @@
         },
         {
           "title": "Dhizuku でのインストールエラーについて",
-          "message": "「デバイスオーナーの機能」からサイレントインストールすると次のようなエラーが表示される場合があります！\nエラーが発生しました\nCaller has no access to session *****\nこのエラーが発生したときは、Dhizuku のストレージ権限が有効になっているか、確認してください。",
+          "message": "「デバイスオーナーの機能」からサイレントインストールすると次のようなエラーが表示される場合があります！\n\nエラーが発生しました\nCaller has no access to session *****\n\nこのエラーが発生したときは、Dhizuku のストレージ権限が有効になっているか、確認してください。",
           "url": ""
         },
         {
           "title": "利用規約のお知らせ（2025/3/30）",
-          "message": "このアプリの利用規約を更新しました。\n利用規約は、GitHub（https://github.com/Kobold831/CPadCustomizeTool）で確認できます。",
-          "url": ""
+          "message": "このアプリの利用規約を更新しました。\n利用規約は、GitHub またはタップして確認できます。",
+          "url": "https://github.com/Kobold831/CPadCustomizeTool/blob/main/docs/TERMS.md"
         }
       ]
   }
