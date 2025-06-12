@@ -4,7 +4,7 @@
       "versionCode": 274,
       "versionName": "2.7.4",
       "url": "https://github.com/Kobold831/CPadCustomizeTool/releases/download/v2.7.4/CPadCustomizeTool_2.7.4.apk",
-      "description": "・レイアウトの調整と修正を行いました。\n・機能、動作、コードの修正と改善を行いました。"
+      "description": "・デバイス起動時に、アプリがクラッシュする問題を修正しました。"
     },
     "support": {
       "supportCode": 0
