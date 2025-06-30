@@ -138,6 +138,14 @@
         "appOpen": true
       },
       {
+        "packageName": "app.nerv",
+        "name": "Nerv",
+        "url": "https://github.com/Kobold831/Server/releases/download/redist/base_master.apk",
+        "description": "",
+        "targetModel": ["CT3", "CTX", "CTZ"],
+        "appOpen": true
+      },
+      {
         "packageName": "com.saradabar.cpadcustomizetool",
         "name": "チャレンジパッド総合カスタマイズツール",
         "url": "https://github.com/Kobold831/CPadCustomizeTool/releases/download/v2.7.4/CPadCustomizeTool_2.7.4.apk",
