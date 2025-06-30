@@ -36,7 +36,7 @@
       },
       {
         "name": "Aurora Store",
-        "url": "https://auroraoss.com/downloads/AuroraStore/Release/AuroraStore-4.7.0.apk",
+        "url": "https://auroraoss.com/downloads/AuroraStore/Release/AuroraStore-4.7.2.apk",
         "description": "Google Play の代替アプリストア",
         "targetModel": [""]
       },
@@ -138,14 +138,6 @@
         "appOpen": true
       },
       {
-        "packageName": "app.nerv",
-        "name": "Nerv",
-        "url": "https://github.com/Kobold831/Server/releases/download/redist/base_master.apk",
-        "description": "",
-        "targetModel": ["CT3", "CTX", "CTZ"],
-        "appOpen": true
-      },
-      {
         "packageName": "com.saradabar.cpadcustomizetool",
         "name": "チャレンジパッド総合カスタマイズツール",
         "url": "https://github.com/Kobold831/CPadCustomizeTool/releases/download/v2.7.4/CPadCustomizeTool_2.7.4.apk",
@@ -188,7 +180,7 @@
       {
         "packageName": "com.aurora.store",
         "name": "Aurora Store",
-        "url": "https://auroraoss.com/downloads/AuroraStore/Release/AuroraStore-4.7.0.apk",
+        "url": "https://auroraoss.com/downloads/AuroraStore/Release/AuroraStore-4.7.2.apk",
         "description": "Google Play の代替アプリストア",
         "targetModel": [""],
         "appOpen": true
