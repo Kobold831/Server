@@ -1,10 +1,10 @@
 {
   "ct": {
     "update": {
-      "versionCode": 274,
-      "versionName": "2.7.4",
-      "url": "https://github.com/Kobold831/CPadCustomizeTool/releases/download/v2.7.4/CPadCustomizeTool_2.7.4.apk",
-      "description": "・デバイス起動時に、アプリがクラッシュする問題を修正しました。"
+      "versionCode": 275,
+      "versionName": "2.7.5",
+      "url": "https://github.com/Kobold831/CPadCustomizeTool/releases/download/v2.7.5/CPadCustomizeTool_2.7.5.apk",
+      "description": "・発生していた複数の問題を修正、改善しました。\n・そのほか、修正、改善をしました。\n・完全な更新内容は、下の詳細な更新情報をタップして確認してください。"
     },
     "support": {
       "supportCode": 0
@@ -140,7 +140,7 @@
       {
         "packageName": "com.saradabar.cpadcustomizetool",
         "name": "チャレンジパッド総合カスタマイズツール",
-        "url": "https://github.com/Kobold831/CPadCustomizeTool/releases/download/v2.7.4/CPadCustomizeTool_2.7.4.apk",
+        "url": "https://github.com/Kobold831/CPadCustomizeTool/releases/download/v2.7.5/CPadCustomizeTool_2.7.5.apk",
         "description": "チャレンジパッドのさまざまな設定を簡単に変更できます。",
         "targetModel": [""],
         "appOpen": true
