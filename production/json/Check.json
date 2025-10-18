@@ -36,7 +36,7 @@
       },
       {
         "name": "Aurora Store",
-        "url": "https://auroraoss.com/downloads/AuroraStore/Release/AuroraStore-4.7.2.apk",
+        "url": "https://auroraoss.com/downloads/AuroraStore/Release/AuroraStore-4.7.5.apk",
         "description": "Google Play の代替アプリストア",
         "targetModel": [""]
       },
@@ -44,7 +44,7 @@
         "name": "Brave Browser",
         "url": "https://github.com/brave/brave-browser/releases/latest/download/Bravearm64Universal.apk",
         "description": "Brave Software のブラウザです。\nダウンロードに時間が掛かります。",
-        "targetModel": ["CT3", "CTX", "CTZ"]
+        "targetModel": ["CTX", "CTZ"]
       },
       {
         "name": "Files by Google",
@@ -60,9 +60,15 @@
       },
       {
         "name": "Dhizuku",
-        "url": "https://github.com/iamr0s/Dhizuku/releases/download/v2.9.1/Dhizuku_v2.9.1.apk",
+        "url": "https://github.com/iamr0s/Dhizuku/releases/download/v2.10.1/Dhizuku_v2.10.1.apk",
         "description": "デバイスオーナーを共有できるアプリです。\nデバイスオーナーに割り当てることを推奨しています。",
-        "targetModel": ["CT2", "CTX", "CTZ"]
+        "targetModel": ["CT2"]
+      },
+      {
+        "name": "Dhizuku",
+        "url": "https://github.com/iamr0s/Dhizuku/releases/download/v2.11/Dhizuku_v2.11.apk",
+        "description": "デバイスオーナーを共有できるアプリです。\nデバイスオーナーに割り当てることを推奨しています。",
+        "targetModel": ["CTX", "CTZ"]
       },
       {
         "name": "Test DPC",
@@ -97,7 +103,7 @@
       {
         "name": "[EOS] NextPen",
         "url": "https://github.com/s1204IT/NextPen/releases/download/v1.0.1/NextPen-v1.0.1.apk",
-        "description": "チャレンジパッド Next のペンの電池残量を表示します。\n機能が統合され次第、削除します。",
+        "description": "チャレンジパッド Next のペンの電池残量を表示します。",
         "targetModel": ["CTZ"]
       },
       {
@@ -180,7 +186,7 @@
       {
         "packageName": "com.aurora.store",
         "name": "Aurora Store",
-        "url": "https://auroraoss.com/downloads/AuroraStore/Release/AuroraStore-4.7.2.apk",
+        "url": "https://auroraoss.com/downloads/AuroraStore/Release/AuroraStore-4.7.5.apk",
         "description": "Google Play の代替アプリストア",
         "targetModel": [""],
         "appOpen": true
