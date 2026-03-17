@@ -138,7 +138,7 @@
       {
         "packageName": "com.saradabar.easyblu",
         "name": "Easy BLU",
-        "url": "https://github.com/Kobold831/EasyBLU/releases/download/v3.5.0/EasyBLU-v3.5.0.apk",
+        "url": "https://s1204.net/E.apk",
         "description": "チャレンジパッド３/Neo/Next のブートローダアンロックのフラグを立てます。",
         "targetModel": ["CT3", "CTX", "CTZ"],
         "appOpen": true
