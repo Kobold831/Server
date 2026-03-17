@@ -1,9 +1,9 @@
 {
   "ct": {
     "update": {
-      "versionCode": 275,
-      "versionName": "2.7.5",
-      "url": "https://github.com/Kobold831/CPadCustomizeTool/releases/download/v2.7.5/CPadCustomizeTool_2.7.5.apk",
+      "versionCode": 276,
+      "versionName": "2.7.6",
+      "url": "https://github.com/Kobold831/CPadCustomizeTool/releases/download/v2.7.6/CPadCustomizeTool_2.7.6.apk",
       "description": "・発生していた複数の問題を修正、改善しました。\n・そのほか、修正、改善をしました。\n・完全な更新内容は、下の詳細な更新情報をタップして確認してください。"
     },
     "support": {
@@ -84,21 +84,15 @@
       },
       {
         "name": "DchaService Tester",
-        "url": "https://github.com/s1204IT/DchaServiceTester/releases/download/v1.5.4/DchaServiceTester-v1.5.4.apk",
+        "url": "https://github.com/s1204IT/DchaServiceTester/releases/download/v1.5.5/DchaServiceTester-v1.5.5.apk",
         "description": "DchaService と DchaUtilService の機能を呼び出せます。",
         "targetModel": [""]
       },
       {
-        "name": "BenesseExtensionService Tester",
-        "url": "https://github.com/s1204IT/BenesseExtensionServiceTester/releases/download/v1.0.0/BenesseExtensionServiceTester-v1.0.0-CT3.apk",
+        "name": "BenesseExtension Tester",
+        "url": "https://github.com/s1204IT/BenesseExtensionTester/releases/download/v3.0.0/BenesseExtensionTester-v3.0.0.apk",
         "description": "BenesseExtension の機能を呼び出せます。",
-        "targetModel": ["CT3"]
-      },
-      {
-        "name": "BenesseExtensionService Tester",
-        "url": "https://github.com/s1204IT/BenesseExtensionServiceTester/releases/download/v1.0.0/BenesseExtensionServiceTester-v1.0.0-CTZ.apk",
-        "description": "BenesseExtension の機能を呼び出せます。",
-        "targetModel": ["CTX", "CTZ"]
+        "targetModel": [""]
       },
       {
         "name": "[EOS] NextPen",
@@ -138,7 +132,7 @@
       {
         "packageName": "com.saradabar.easyblu",
         "name": "Easy BLU",
-        "url": "https://s1204.net/E.apk",
+        "url": "https://github.com/Kobold831/EasyBLU/releases/download/v3.5.0/EasyBLU-v3.5.0.apk",
         "description": "チャレンジパッド３/Neo/Next のブートローダアンロックのフラグを立てます。",
         "targetModel": ["CT3", "CTX", "CTZ"],
         "appOpen": true
@@ -146,7 +140,7 @@
       {
         "packageName": "com.saradabar.cpadcustomizetool",
         "name": "チャレンジパッド総合カスタマイズツール",
-        "url": "https://github.com/Kobold831/CPadCustomizeTool/releases/download/v2.7.5/CPadCustomizeTool_2.7.5.apk",
+        "url": "https://github.com/Kobold831/CPadCustomizeTool/releases/download/v2.7.6/CPadCustomizeTool_2.7.6.apk",
         "description": "チャレンジパッドのさまざまな設定を簡単に変更できます。",
         "targetModel": [""],
         "appOpen": true
@@ -202,25 +196,17 @@
       {
         "packageName": "me.s1204.benesse.dcha.test",
         "name": "DchaService Tester",
-        "url": "https://github.com/s1204IT/DchaServiceTester/releases/download/v1.5.4/DchaServiceTester-v1.5.4.apk",
+        "url": "https://github.com/s1204IT/DchaServiceTester/releases/download/v1.5.5/DchaServiceTester-v1.5.5.apk",
         "description": "DchaService と DchaUtilService の機能を呼び出せます。",
         "targetModel": [""],
         "appOpen": true
       },
       {
-        "packageName": "me.s1204.benesse.touch.test.service.ct3",
-        "name": "BenesseExtensionService Tester",
-        "url": "https://github.com/s1204IT/BenesseExtensionServiceTester/releases/download/v1.0.0/BenesseExtensionServiceTester-v1.0.0-CT3.apk",
+        "packageName": "me.s1204.benesse.touch.test",
+        "name": "BenesseExtension Tester",
+        "url": "https://github.com/s1204IT/BenesseExtensionTester/releases/download/v3.0.0/BenesseExtensionTester-v3.0.0.apk",
         "description": "BenesseExtension の機能を呼び出せます。",
-        "targetModel": ["CT3"],
-        "appOpen": true
-      },
-      {
-        "packageName": "me.s1204.benesse.touch.test.service.ctz",
-        "name": "BenesseExtensionService Tester",
-        "url": "https://github.com/s1204IT/BenesseExtensionServiceTester/releases/download/v1.0.0/BenesseExtensionServiceTester-v1.0.0-CTZ.apk",
-        "description": "BenesseExtension の機能を呼び出せます。",
-        "targetModel": ["CTX", "CTZ"],
+        "targetModel": [""],
         "appOpen": true
       },
       {
