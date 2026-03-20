@@ -24,19 +24,19 @@
       },
       {
         "name": "Nova Launcher (v7)",
-        "url": "https://novalauncher.com/apk/NovaLauncher_7.0.58.apk",
+        "url": "https://github.com/Kobold831/Server/releases/download/redist/NovaLauncher_7.0.58.apk",
         "description": "一般的なランチャーです。チャレンジパッド Neo/Next で使用できます。",
         "targetModel": ["CTX", "CTZ"]
       },
       {
         "name": "Nova Launcher (v8)",
-        "url": "https://novalauncher.com/apk/NovaLauncher_8.0.18.apk",
+        "url": "https://github.com/Kobold831/Server/releases/download/redist/NovaLauncher_8.0.18.apk",
         "description": "一般的なランチャーです。チャレンジパッド Neo/Next で使用できます。",
         "targetModel": ["CTX", "CTZ"]
       },
       {
         "name": "Aurora Store",
-        "url": "https://auroraoss.com/downloads/AuroraStore/Release/AuroraStore-4.7.5.apk",
+        "url": "https://auroraoss.com/downloads/AuroraStore/Latest/latest.apk",
         "description": "Google Play の代替アプリストア",
         "targetModel": [""]
       },
@@ -164,7 +164,7 @@
       {
         "packageName": "com.teslacoilsw.launcher",
         "name": "Nova Launcher (v7)",
-        "url": "https://novalauncher.com/apk/NovaLauncher_7.0.58.apk",
+        "url": "https://github.com/Kobold831/Server/releases/download/redist/NovaLauncher_7.0.58.apk",
         "description": "一般的なランチャーです。チャレンジパッド Neo/Next で使用できます。",
         "targetModel": ["CTX", "CTZ"],
         "appOpen": true
@@ -172,7 +172,7 @@
       {
         "packageName": "com.teslacoilsw.launcher",
         "name": "Nova Launcher (v8)",
-        "url": "https://novalauncher.com/apk/NovaLauncher_8.0.18.apk",
+        "url": "https://github.com/Kobold831/Server/releases/download/redist/NovaLauncher_8.0.18.apk",
         "description": "一般的なランチャーです。チャレンジパッド Neo/Next で使用できます。",
         "targetModel": ["CTX", "CTZ"],
         "appOpen": true
@@ -180,7 +180,7 @@
       {
         "packageName": "com.aurora.store",
         "name": "Aurora Store",
-        "url": "https://auroraoss.com/downloads/AuroraStore/Release/AuroraStore-4.7.5.apk",
+        "url": "https://auroraoss.com/downloads/AuroraStore/Latest/latest.apk",
         "description": "Google Play の代替アプリストア",
         "targetModel": [""],
         "appOpen": true
