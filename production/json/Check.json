@@ -42,6 +42,18 @@
       },
       {
         "name": "Brave Browser",
+        "url": "https://github.com/brave/brave-browser/releases/download/v1.31.91/BraveMonoarm64.apk",
+        "description": "Brave Software のブラウザです。\nダウンロードに時間が掛かります。",
+        "targetModel": ["CT2"]
+      },
+      {
+        "name": "Brave Browser",
+        "url": "https://github.com/brave/brave-browser/releases/download/v1.60.127/Bravearm64Universal.apk",
+        "description": "Brave Software のブラウザです。\nダウンロードに時間が掛かります。",
+        "targetModel": ["CT3"]
+      },
+      {
+        "name": "Brave Browser",
         "url": "https://github.com/brave/brave-browser/releases/latest/download/Bravearm64Universal.apk",
         "description": "Brave Software のブラウザです。\nダウンロードに時間が掛かります。",
         "targetModel": ["CTX", "CTZ"]
@@ -188,9 +200,25 @@
       {
         "packageName": "com.brave.browser",
         "name": "Brave Browser",
+        "url": "https://github.com/brave/brave-browser/releases/download/v1.31.91/BraveMonoarm64.apk",
+        "description": "Brave Software のブラウザです。\nダウンロードに時間が掛かります。",
+        "targetModel": ["CT3"],
+        "appOpen": true
+      },
+      {
+        "packageName": "com.brave.browser",
+        "name": "Brave Browser",
+        "url": "https://github.com/brave/brave-browser/releases/download/v1.60.127/Bravearm64Universal.apk",
+        "description": "Brave Software のブラウザです。\nダウンロードに時間が掛かります。",
+        "targetModel": ["CT2"],
+        "appOpen": true
+      },
+      {
+        "packageName": "com.brave.browser",
+        "name": "Brave Browser",
         "url": "https://github.com/brave/brave-browser/releases/latest/download/Bravearm64Universal.apk",
         "description": "Brave Software のブラウザです。\nダウンロードに時間が掛かります。",
-        "targetModel": ["CT3", "CTX", "CTZ"],
+        "targetModel": ["CTX", "CTZ"],
         "appOpen": true
       },
       {
