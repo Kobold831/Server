@@ -202,7 +202,7 @@
         "name": "Brave Browser",
         "url": "https://github.com/brave/brave-browser/releases/download/v1.31.91/BraveMonoarm64.apk",
         "description": "Brave Software のブラウザです。\nダウンロードに時間が掛かります。",
-        "targetModel": ["CT3"],
+        "targetModel": ["CT2"],
         "appOpen": true
       },
       {
@@ -210,7 +210,7 @@
         "name": "Brave Browser",
         "url": "https://github.com/brave/brave-browser/releases/download/v1.60.127/Bravearm64Universal.apk",
         "description": "Brave Software のブラウザです。\nダウンロードに時間が掛かります。",
-        "targetModel": ["CT2"],
+        "targetModel": ["CT3"],
         "appOpen": true
       },
       {
