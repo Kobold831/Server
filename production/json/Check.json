@@ -13,25 +13,25 @@
       {
         "name": "Nova Launcher (v5)",
         "url": "https://github.com/Kobold831/Server/releases/download/redist/NovaLauncher_5.5.4.apk",
-        "description": "一般的なランチャーです。チャレンジパッド 2/3 で使用できます。\nダウンロードに時間がかかる場合があります。",
+        "description": "一般的なランチャーです。",
         "targetModel": ["CT2", "CT3"]
       },
       {
         "name": "Nova Launcher (v6)",
         "url": "https://github.com/Kobold831/Server/releases/download/redist/NovaLauncher_6.2.19.apk",
-        "description": "一般的なランチャーです。チャレンジパッド 2/3 で使用できます。\nチャレンジパッド 3 の一部のビルドでは設定が開けません。\nダウンロードに時間がかかる場合があります。",
+        "description": "一般的なランチャーです。\nチャレンジパッド 3 の一部のビルドでは設定が開けません。",
         "targetModel": ["CT2", "CT3"]
       },
       {
         "name": "Nova Launcher (v7)",
         "url": "https://github.com/Kobold831/Server/releases/download/redist/NovaLauncher_7.0.58.apk",
-        "description": "一般的なランチャーです。チャレンジパッド Neo/Next で使用できます。",
+        "description": "一般的なランチャーです。",
         "targetModel": ["CTX", "CTZ"]
       },
       {
         "name": "Nova Launcher (v8)",
         "url": "https://github.com/Kobold831/Server/releases/download/redist/NovaLauncher_8.0.18.apk",
-        "description": "一般的なランチャーです。チャレンジパッド Neo/Next で使用できます。",
+        "description": "一般的なランチャーです。",
         "targetModel": ["CTX", "CTZ"]
       },
       {
@@ -61,7 +61,7 @@
       {
         "name": "Files by Google",
         "url": "https://github.com/Kobold831/Server/releases/download/redist/Files.apk",
-        "description": "Google のファイラーです。\nダウンロードに時間がかかる場合があります。",
+        "description": "Google のファイラーです。\n",
         "targetModel": [""]
       },
       {
@@ -161,7 +161,7 @@
         "packageName": "com.teslacoilsw.launcher",
         "name": "Nova Launcher (v5)",
         "url": "https://github.com/Kobold831/Server/releases/download/redist/NovaLauncher_5.5.4.apk",
-        "description": "一般的なランチャーです。チャレンジパッド 2/3 で使用できます。\nダウンロードに時間がかかる場合があります。",
+        "description": "一般的なランチャーです。",
         "targetModel": ["CT2", "CT3"],
         "appOpen": true
       },
@@ -169,7 +169,7 @@
         "packageName": "com.teslacoilsw.launcher",
         "name": "Nova Launcher (v6)",
         "url": "https://github.com/Kobold831/Server/releases/download/redist/NovaLauncher_6.2.19.apk",
-        "description": "一般的なランチャーです。チャレンジパッド 2/3 で使用できます。\nチャレンジパッド 3 の一部のビルドでは設定が開けません。\nダウンロードに時間がかかる場合があります。",
+        "description": "一般的なランチャーです。\nチャレンジパッド 3 の一部のビルドでは設定が開けません。",
         "targetModel": ["CT2", "CT3"],
         "appOpen": true
       },
@@ -177,7 +177,7 @@
         "packageName": "com.teslacoilsw.launcher",
         "name": "Nova Launcher (v7)",
         "url": "https://github.com/Kobold831/Server/releases/download/redist/NovaLauncher_7.0.58.apk",
-        "description": "一般的なランチャーです。チャレンジパッド Neo/Next で使用できます。",
+        "description": "一般的なランチャーです。",
         "targetModel": ["CTX", "CTZ"],
         "appOpen": true
       },
@@ -185,7 +185,7 @@
         "packageName": "com.teslacoilsw.launcher",
         "name": "Nova Launcher (v8)",
         "url": "https://github.com/Kobold831/Server/releases/download/redist/NovaLauncher_8.0.18.apk",
-        "description": "一般的なランチャーです。チャレンジパッド Neo/Next で使用できます。",
+        "description": "一般的なランチャーです。",
         "targetModel": ["CTX", "CTZ"],
         "appOpen": true
       },
