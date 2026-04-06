@@ -119,6 +119,18 @@
         "targetModel": [""]
       },
       {
+        "name": "X-plore",
+        "url": "https://github.com/Kobold831/Server/releases/download/redist/Xplore_4.30.06.apk",
+        "description": "上級者向けのファイルエクスプローラーです。",
+        "targetModel": ["CT2"]
+      },
+      {
+        "name": "X-plore",
+        "url": "https://github.com/Kobold831/Server/releases/download/redist/Xplore_4.32.00.apk",
+        "description": "上級者向けのファイルエクスプローラーです。",
+        "targetModel": ["CT3", "CTX", "CTZ"]
+      },
+      {
         "name": "URL を指定してインストール",
         "url": "MYURL",
         "description": "OK を押すと表示される画面で URL を入力してください。\n有効な URL および、拡張子が apk であればインストールできます。",
@@ -266,6 +278,20 @@
         "description": "ファイルエクスプローラーです。",
         "targetModel": [""],
         "appOpen": true
+      },
+      {
+        "packageName": "com.lonelycatgames.Xplore",
+        "name": "X-plore",
+        "url": "https://github.com/Kobold831/Server/releases/download/redist/Xplore_4.30.06.apk",
+        "description": "上級者向けのファイルエクスプローラーです。",
+        "targetModel": ["CT2"]
+      },
+      {
+        "packageName": "com.lonelycatgames.Xplore",
+        "name": "X-plore",
+        "url": "https://github.com/Kobold831/Server/releases/download/redist/Xplore_4.32.00.apk",
+        "description": "上級者向けのファイルエクスプローラーです。",
+        "targetModel": ["CT3", "CTX", "CTZ"]
       },
       {
         "packageName": "",
