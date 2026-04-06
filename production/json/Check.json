@@ -284,14 +284,16 @@
         "name": "X-plore",
         "url": "https://github.com/Kobold831/Server/releases/download/redist/Xplore_4.30.06.apk",
         "description": "上級者向けのファイルエクスプローラーです。",
-        "targetModel": ["CT2"]
+        "targetModel": ["CT2"],
+        "appOpen": true
       },
       {
         "packageName": "com.lonelycatgames.Xplore",
         "name": "X-plore",
         "url": "https://github.com/Kobold831/Server/releases/download/redist/Xplore_4.32.00.apk",
         "description": "上級者向けのファイルエクスプローラーです。",
-        "targetModel": ["CT3", "CTX", "CTZ"]
+        "targetModel": ["CT3", "CTX", "CTZ"],
+        "appOpen": true
       },
       {
         "packageName": "",
