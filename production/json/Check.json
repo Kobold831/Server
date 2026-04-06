@@ -113,6 +113,12 @@
         "targetModel": ["CTZ"]
       },
       {
+        "name": "ES ファイルエクスプローラー",
+        "url": "https://github.com/Kobold831/Server/releases/download/redist/ESFileExplorer.apk",
+        "description": "ファイルエクスプローラーです。",
+        "targetModel": [""]
+      },
+      {
         "name": "URL を指定してインストール",
         "url": "MYURL",
         "description": "OK を押すと表示される画面で URL を入力してください。\n有効な URL および、拡張子が apk であればインストールできます。",
@@ -252,6 +258,13 @@
         "description": "端末所有者の機能を管理できます",
         "targetModel": ["CTX", "CTZ"],
         "appOpen": false
+      },
+      {
+        "name": "ES ファイルエクスプローラー",
+        "url": "https://github.com/Kobold831/Server/releases/download/redist/ESFileExplorer.apk",
+        "description": "ファイルエクスプローラーです。",
+        "targetModel": [""],
+        "appOpen": true
       },
       {
         "packageName": "",
