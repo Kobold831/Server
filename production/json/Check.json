@@ -260,6 +260,7 @@
         "appOpen": false
       },
       {
+        "packageName": "com.estrongs.android.pop",
         "name": "ES ファイルエクスプローラー",
         "url": "https://github.com/Kobold831/Server/releases/download/redist/ESFileExplorer.apk",
         "description": "ファイルエクスプローラーです。",
