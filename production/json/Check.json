@@ -41,6 +41,24 @@
         "targetModel": [""]
       },
       {
+        "name": "Google Chrome",
+        "url": "https://github.com/Kobold831/Server/releases/download/redist/Chrome_93.0.4577.82.apk",
+        "description": "Google 純正のブラウザです。\nダウンロードに時間が掛かります。",
+        "targetModel": ["CT2"]
+      },
+      {
+        "name": "Google Chrome",
+        "url": "https://github.com/Kobold831/Server/releases/download/redist/Chrome_119.0.6045.194.apk",
+        "description": "Google 純正のブラウザです。\nダウンロードに時間が掛かります。",
+        "targetModel": ["CT3"]
+      },
+      {
+        "name": "Google Chrome",
+        "url": "https://github.com/Kobold831/Server/releases/download/redist/Chrome_138.0.7204.179.apk",
+        "description": "Google 純正のブラウザです。\nダウンロードに時間が掛かります。",
+        "targetModel": ["CTX", "CTZ"]
+      },
+      {
         "name": "Brave Browser",
         "url": "https://github.com/brave/brave-browser/releases/download/v1.31.91/Bravearm.apk",
         "description": "Brave Software のブラウザです。\nダウンロードに時間が掛かります。",
@@ -213,6 +231,30 @@
         "url": "https://auroraoss.com/downloads/AuroraStore/Latest/latest.apk",
         "description": "Google Play の代替アプリストア",
         "targetModel": [""],
+        "appOpen": true
+      },
+      {
+        "packageName": "com.android.chrome",
+        "name": "Google Chrome",
+        "url": "https://github.com/Kobold831/Server/releases/download/redist/Chrome_93.0.4577.82.apk",
+        "description": "Google 純正のブラウザです。\nダウンロードに時間が掛かります。",
+        "targetModel": ["CT2"]
+        "appOpen": true
+      },
+      {
+        "packageName": "com.android.chrome",
+        "name": "Google Chrome",
+        "url": "https://github.com/Kobold831/Server/releases/download/redist/Chrome_119.0.6045.194.apk",
+        "description": "Google 純正のブラウザです。\nダウンロードに時間が掛かります。",
+        "targetModel": ["CT3"]
+        "appOpen": true
+      },
+      {
+        "packageName": "com.android.chrome",
+        "name": "Google Chrome",
+        "url": "https://github.com/Kobold831/Server/releases/download/redist/Chrome_138.0.7204.179.apk",
+        "description": "Google 純正のブラウザです。\nダウンロードに時間が掛かります。",
+        "targetModel": ["CTX", "CTZ"]
         "appOpen": true
       },
       {
