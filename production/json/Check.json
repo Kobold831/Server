@@ -238,7 +238,7 @@
         "name": "Google Chrome",
         "url": "https://github.com/Kobold831/Server/releases/download/redist/Chrome_93.0.4577.82.apk",
         "description": "Google 純正のブラウザです。\nダウンロードに時間が掛かります。",
-        "targetModel": ["CT2"]
+        "targetModel": ["CT2"],
         "appOpen": true
       },
       {
@@ -246,7 +246,7 @@
         "name": "Google Chrome",
         "url": "https://github.com/Kobold831/Server/releases/download/redist/Chrome_119.0.6045.194.apk",
         "description": "Google 純正のブラウザです。\nダウンロードに時間が掛かります。",
-        "targetModel": ["CT3"]
+        "targetModel": ["CT3"],
         "appOpen": true
       },
       {
@@ -254,7 +254,7 @@
         "name": "Google Chrome",
         "url": "https://github.com/Kobold831/Server/releases/download/redist/Chrome_138.0.7204.179.apk",
         "description": "Google 純正のブラウザです。\nダウンロードに時間が掛かります。",
-        "targetModel": ["CTX", "CTZ"]
+        "targetModel": ["CTX", "CTZ"],
         "appOpen": true
       },
       {
