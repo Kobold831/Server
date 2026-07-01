@@ -36,9 +36,15 @@
       },
       {
         "name": "Aurora Store",
+        "url": "https://auroraoss.com/downloads/AuroraStore/Release/AuroraStore-4.7.5.apk",
+        "description": "Google Play の代替アプリストア",
+        "targetModel": ["CT2"]
+      },
+      {
+        "name": "Aurora Store",
         "url": "https://auroraoss.com/downloads/AuroraStore/Latest/latest.apk",
         "description": "Google Play の代替アプリストア",
-        "targetModel": [""]
+        "targetModel": ["CT3", "CTX", "CTZ"]
       },
       {
         "name": "Google Chrome",
@@ -228,9 +234,17 @@
       {
         "packageName": "com.aurora.store",
         "name": "Aurora Store",
+        "url": "https://auroraoss.com/downloads/AuroraStore/Release/AuroraStore-4.7.5.apk",
+        "description": "Google Play の代替アプリストア",
+        "targetModel": ["CT2"],
+        "appOpen": true
+      },
+      {
+        "packageName": "com.aurora.store",
+        "name": "Aurora Store",
         "url": "https://auroraoss.com/downloads/AuroraStore/Latest/latest.apk",
         "description": "Google Play の代替アプリストア",
-        "targetModel": [""],
+        "targetModel": ["CT3", "CTX", "CTZ"],
         "appOpen": true
       },
       {
