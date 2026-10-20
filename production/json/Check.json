@@ -95,48 +95,6 @@
         "targetModel": ["CT3", "CTX", "CTZ"]
       },
       {
-        "name": "Dhizuku",
-        "url": "https://github.com/iamr0s/Dhizuku/releases/download/v2.10.1/Dhizuku_v2.10.1.apk",
-        "description": "デバイスオーナーを共有できるアプリです。\nデバイスオーナーに割り当てることを推奨しています。",
-        "targetModel": ["CT2"]
-      },
-      {
-        "name": "Dhizuku",
-        "url": "https://github.com/iamr0s/Dhizuku/releases/download/v2.11/Dhizuku_v2.11.apk",
-        "description": "デバイスオーナーを共有できるアプリです。\nデバイスオーナーに割り当てることを推奨しています。",
-        "targetModel": ["CTX", "CTZ"]
-      },
-      {
-        "name": "Test DPC",
-        "url": "https://github.com/googlesamples/android-testdpc/releases/download/v7.0.2/TestDPC_7002.apk",
-        "description": "端末所有者の機能を管理できます",
-        "targetModel": ["CT2"]
-      },
-      {
-        "name": "Test DPC",
-        "url": "https://github.com/googlesamples/android-testdpc/releases/download/v9.0.12/TestDPC_9.0.12.apk",
-        "description": "端末所有者の機能を管理できます",
-        "targetModel": ["CTX", "CTZ"]
-      },
-      {
-        "name": "DchaService Tester",
-        "url": "https://github.com/s1204IT/DchaServiceTester/releases/download/v1.6.0/DchaServiceTester-v1.6.0.apk",
-        "description": "DchaService と DchaUtilService の機能を呼び出せます。",
-        "targetModel": [""]
-      },
-      {
-        "name": "BenesseExtension Tester",
-        "url": "https://github.com/s1204IT/BenesseExtensionTester/releases/download/v4.0.0/BenesseExtensionTester-v4.0.0.apk",
-        "description": "BenesseExtension と StsExtensionService の機能を呼び出せます。",
-        "targetModel": [""]
-      },
-      {
-        "name": "[EOS] NextPen",
-        "url": "https://github.com/s1204IT/NextPen/releases/download/v1.0.1/NextPen-v1.0.1.apk",
-        "description": "チャレンジパッド Next のペンの電池残量を表示します。",
-        "targetModel": ["CTZ"]
-      },
-      {
         "name": "ES ファイルエクスプローラー",
         "url": "https://github.com/Kobold831/Server/releases/download/redist/ESFileExplorer.apk",
         "description": "ファイルエクスプローラーです。",
@@ -153,6 +111,36 @@
         "url": "https://github.com/Kobold831/Server/releases/download/redist/Xplore_4.32.00.apk",
         "description": "上級者向けのファイルエクスプローラーです。",
         "targetModel": ["CT3", "CTX", "CTZ"]
+      },
+      {
+        "name": "Dhizuku",
+        "url": "https://github.com/iamr0s/Dhizuku/releases/download/v2.13.0/Dhizuku_v2.13.0.apk",
+        "description": "デバイスオーナーを共有できるアプリです。\nデバイスオーナーに割り当てることを推奨しています。",
+        "targetModel": ["CTX", "CTZ"]
+      },
+      {
+        "name": "[EOS] NextPen",
+        "url": "https://github.com/s1204IT/NextPen/releases/download/v1.0.1/NextPen-v1.0.1.apk",
+        "description": "チャレンジパッド Next のペンの電池残量を表示します。",
+        "targetModel": ["CTZ"]
+      },
+      {
+        "name": "Test DPC",
+        "url": "https://github.com/s1204IT/TestDPC-Gradle/releases/download/v9.0.16/TestDPC_v9.0.16.apk",
+        "description": "端末所有者の機能を管理できます",
+        "targetModel": ["CTX", "CTZ"]
+      },
+      {
+        "name": "DchaService Tester",
+        "url": "https://github.com/s1204IT/DchaServiceTester/releases/download/v1.6.0/DchaServiceTester-v1.6.0.apk",
+        "description": "DchaService と DchaUtilService の機能を呼び出せます。",
+        "targetModel": [""]
+      },
+      {
+        "name": "BenesseExtension Tester",
+        "url": "https://github.com/s1204IT/BenesseExtensionTester/releases/download/v4.0.0/BenesseExtensionTester-v4.0.0.apk",
+        "description": "BenesseExtension と StsExtensionService の機能を呼び出せます。",
+        "targetModel": [""]
       },
       {
         "name": "URL を指定してインストール",
@@ -296,38 +284,6 @@
         "appOpen": true
       },
       {
-        "packageName": "me.s1204.benesse.dcha.test",
-        "name": "DchaService Tester",
-        "url": "https://github.com/s1204IT/DchaServiceTester/releases/download/v1.6.0/DchaServiceTester-v1.6.0.apk",
-        "description": "DchaService と DchaUtilService の機能を呼び出せます。",
-        "targetModel": [""],
-        "appOpen": true
-      },
-      {
-        "packageName": "me.s1204.benesse.touch.test",
-        "name": "BenesseExtension Tester",
-        "url": "https://github.com/s1204IT/BenesseExtensionTester/releases/download/v4.0.0/BenesseExtensionTester-v4.0.0.apk",
-        "description": "BenesseExtension と StsExtensionService の機能を呼び出せます。",
-        "targetModel": [""],
-        "appOpen": true
-      },
-      {
-        "packageName": "com.afwsamples.testdpc",
-        "name": "Test DPC",
-        "url": "https://github.com/googlesamples/android-testdpc/releases/download/v7.0.2/TestDPC_7002.apk",
-        "description": "端末所有者の機能を管理できます",
-        "targetModel": ["CT2"],
-        "appOpen": false
-      },
-      {
-        "packageName": "com.afwsamples.testdpc",
-        "name": "Test DPC",
-        "url": "https://github.com/googlesamples/android-testdpc/releases/download/v9.0.12/TestDPC_9.0.12.apk",
-        "description": "端末所有者の機能を管理できます",
-        "targetModel": ["CTX", "CTZ"],
-        "appOpen": false
-      },
-      {
         "packageName": "com.estrongs.android.pop",
         "name": "ES ファイルエクスプローラー",
         "url": "https://github.com/Kobold831/Server/releases/download/redist/ESFileExplorer.apk",
@@ -350,6 +306,30 @@
         "description": "上級者向けのファイルエクスプローラーです。",
         "targetModel": ["CT3", "CTX", "CTZ"],
         "appOpen": true
+      },
+      {
+        "packageName": "me.s1204.benesse.dcha.test",
+        "name": "DchaService Tester",
+        "url": "https://github.com/s1204IT/DchaServiceTester/releases/download/v1.6.0/DchaServiceTester-v1.6.0.apk",
+        "description": "DchaService と DchaUtilService の機能を呼び出せます。",
+        "targetModel": [""],
+        "appOpen": true
+      },
+      {
+        "packageName": "me.s1204.benesse.touch.test",
+        "name": "BenesseExtension Tester",
+        "url": "https://github.com/s1204IT/BenesseExtensionTester/releases/download/v4.0.0/BenesseExtensionTester-v4.0.0.apk",
+        "description": "BenesseExtension と StsExtensionService の機能を呼び出せます。",
+        "targetModel": [""],
+        "appOpen": true
+      },
+      {
+        "packageName": "com.afwsamples.testdpc",
+        "name": "Test DPC",
+        "url": "https://github.com/s1204IT/TestDPC-Gradle/releases/download/v9.0.16/TestDPC_v9.0.16.apk",
+        "description": "端末所有者の機能を管理できます",
+        "targetModel": ["CTX", "CTZ"],
+        "appOpen": false
       },
       {
         "packageName": "",
