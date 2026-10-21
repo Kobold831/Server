@@ -3,7 +3,7 @@
     "update": {
       "versionCode": 277,
       "versionName": "2.7.7",
-      "url": "https://github.com/Kobold831/CPadCustomizeTool/releases/download/v2.8.0/CPadCustomizeTool_2.8.0.apk",
+      "url": "https://github.com/Kobold831/CPadCustomizeTool/releases/download/v2.8.0/CPadCustomizeTool_v2.8.0.apk",
       "description": "・発生していた複数の問題を修正、改善しました。\n・そのほか、修正、改善をしました。\n・完全な更新内容は、下の詳細な更新情報をタップして確認してください。"
     },
     "support": {
@@ -182,7 +182,7 @@
       {
         "packageName": "com.saradabar.cpadcustomizetool",
         "name": "チャレンジパッド総合カスタマイズツール",
-        "url": "https://github.com/Kobold831/CPadCustomizeTool/releases/download/v2.8.0/CPadCustomizeTool_2.8.0.apk",
+        "url": "https://github.com/Kobold831/CPadCustomizeTool/releases/download/v2.8.0/CPadCustomizeTool_v2.8.0.apk",
         "description": "チャレンジパッドのさまざまな設定を簡単に変更できます。",
         "targetModel": [""],
         "appOpen": true
