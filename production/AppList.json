@@ -3,7 +3,7 @@
       {
         "packageName": "com.saradabar.easyblu",
         "name": "Easy BLU",
-        "url": "https://github.com/Kobold831/EasyBLU/releases/download/v3.7.0/EasyBLU-v3.7.0.apk",
+        "url": "https://github.com/Kobold831/EasyBLU/releases/download/v3.6.1/EasyBLU-v3.6.1.apk",
         "description": "OEM アンロックのフラグを立てます。",
         "targetModel": ["CT3", "CTX", "CTZ"],
         "appOpen": true
@@ -11,7 +11,7 @@
       {
         "packageName": "com.saradabar.cpadcustomizetool",
         "name": "チャレンジパッド総合カスタマイズツール",
-        "url": "https://github.com/Kobold831/CPadCustomizeTool/releases/download/v2.9.0/CPadCustomizeTool_v2.9.0.apk",
+        "url": "https://github.com/Kobold831/CPadCustomizeTool/releases/download/v2.8.0/CPadCustomizeTool_v2.8.0.apk",
         "description": "チャレンジパッドのさまざまな設定を簡単に変更できます。",
         "targetModel": [""],
         "appOpen": true
