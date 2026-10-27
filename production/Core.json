@@ -5,9 +5,14 @@
     },
     "notice": [
       {
-        "title": "",
-        "message": "",
+        "title": "たいとる１",
+        "message": "URL空",
         "url": ""
+      },
+      {
+        "title": "たいとる２",
+        "message": "URL有",
+        "url": "https://google.com"
       }
     ]
 }
