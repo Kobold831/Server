@@ -1,6 +1,11 @@
 {
   "ct": {
-      "noticeList": [
-      ]
+    "noticeList": [
+      {
+        "title": "アプリを更新してください。",
+        "message": "カスタマイズツールに重要な更新を行いました。\nアップデートしてください。",
+        "url": "https://github.com/Kobold831/CPadCustomizeTool/releases/latest"
+      }
+    ]
   }
 }
