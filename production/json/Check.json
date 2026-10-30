@@ -1,120 +1,12 @@
 {
   "ct": {
     "update": {
-      "versionCode": 277,
-      "versionName": "2.7.7",
-      "url": "https://github.com/Kobold831/CPadCustomizeTool/releases/download/v2.8.0/CPadCustomizeTool_v2.8.0.apk",
-      "description": "・発生していた複数の問題を修正、改善しました。\n・そのほか、修正、改善をしました。\n・完全な更新内容は、下の詳細な更新情報をタップして確認してください。"
+      "versionCode": 290,
+      "versionName": "2.9.0",
+      "url": "https://github.com/Kobold831/CPadCustomizeTool/releases/download/v2.9.0/CPadCustomizeTool_v2.9.0.apk",
+      "description": "重要な更新を行いました。\n引き続きこのアプリを利用するには必ず更新してください。"
     },
     "appList": [
-      {
-        "name": "Nova Launcher (v5)",
-        "url": "https://github.com/Kobold831/Server/releases/download/redist/NovaLauncher_5.5.4.apk",
-        "description": "一般的なランチャーです。",
-        "targetModel": ["CT2", "CT3"]
-      },
-      {
-        "name": "Nova Launcher (v6)",
-        "url": "https://github.com/Kobold831/Server/releases/download/redist/NovaLauncher_6.2.19.apk",
-        "description": "一般的なランチャーです。\nチャレンジパッド 3 の一部のビルドでは設定が開けません。",
-        "targetModel": ["CT2", "CT3"]
-      },
-      {
-        "name": "Nova Launcher (v7)",
-        "url": "https://github.com/Kobold831/Server/releases/download/redist/NovaLauncher_7.0.58.apk",
-        "description": "一般的なランチャーです。",
-        "targetModel": ["CTX", "CTZ"]
-      },
-      {
-        "name": "Nova Launcher (v8)",
-        "url": "https://github.com/Kobold831/Server/releases/download/redist/NovaLauncher_8.0.18.apk",
-        "description": "一般的なランチャーです。",
-        "targetModel": ["CTX", "CTZ"]
-      },
-      {
-        "name": "Aurora Store",
-        "url": "https://auroraoss.com/downloads/AuroraStore/Release/AuroraStore-4.7.5.apk",
-        "description": "Google Play の代替アプリストア",
-        "targetModel": ["CT2"]
-      },
-      {
-        "name": "Aurora Store",
-        "url": "https://auroraoss.com/downloads/AuroraStore/Latest/latest.apk",
-        "description": "Google Play の代替アプリストア",
-        "targetModel": ["CT3", "CTX", "CTZ"]
-      },
-      {
-        "name": "Google Chrome",
-        "url": "https://github.com/Kobold831/Server/releases/download/redist/Chrome_93.0.4577.82.apk",
-        "description": "Google 純正のブラウザです。\nダウンロードに時間が掛かります。",
-        "targetModel": ["CT2"]
-      },
-      {
-        "name": "Google Chrome",
-        "url": "https://github.com/Kobold831/Server/releases/download/redist/Chrome_119.0.6045.194.apk",
-        "description": "Google 純正のブラウザです。\nダウンロードに時間が掛かります。",
-        "targetModel": ["CT3"]
-      },
-      {
-        "name": "Google Chrome",
-        "url": "https://github.com/Kobold831/Server/releases/download/redist/Chrome_138.0.7204.179.apk",
-        "description": "Google 純正のブラウザです。\nダウンロードに時間が掛かります。",
-        "targetModel": ["CTX", "CTZ"]
-      },
-      {
-        "name": "Brave Browser",
-        "url": "https://github.com/brave/brave-browser/releases/download/v1.31.91/Bravearm.apk",
-        "description": "Brave Software のブラウザです。\nダウンロードに時間が掛かります。",
-        "targetModel": ["CT2"]
-      },
-      {
-        "name": "Brave Browser",
-        "url": "https://github.com/brave/brave-browser/releases/download/v1.60.127/Bravearm64Universal.apk",
-        "description": "Brave Software のブラウザです。\nダウンロードに時間が掛かります。",
-        "targetModel": ["CT3"]
-      },
-      {
-        "name": "Brave Browser",
-        "url": "https://github.com/brave/brave-browser/releases/download/v1.80.126/Bravearm64Universal.apk",
-        "description": "Brave Software のブラウザです。\nダウンロードに時間が掛かります。",
-        "targetModel": ["CTX", "CTZ"]
-      },
-      {
-        "name": "Files by Google",
-        "url": "https://github.com/Kobold831/Server/releases/download/redist/Files.apk",
-        "description": "Google のファイラーです。\n",
-        "targetModel": [""]
-      },
-      {
-        "name": "Easy BLU",
-        "url": "https://github.com/Kobold831/EasyBLU/releases/download/v3.6.1/EasyBLU-v3.6.1.apk",
-        "description": "チャレンジパッド３/Neo/Next のブートローダアンロックのフラグを立てます。\n注意：DchaService が必要です。",
-        "targetModel": ["CT3", "CTX", "CTZ"]
-      },
-      {
-        "name": "ES ファイルエクスプローラー",
-        "url": "https://github.com/Kobold831/Server/releases/download/redist/ESFileExplorer.apk",
-        "description": "ファイルエクスプローラーです。",
-        "targetModel": [""]
-      },
-      {
-        "name": "X-plore",
-        "url": "https://github.com/Kobold831/Server/releases/download/redist/Xplore_4.30.06.apk",
-        "description": "上級者向けのファイルエクスプローラーです。",
-        "targetModel": ["CT2"]
-      },
-      {
-        "name": "X-plore",
-        "url": "https://github.com/Kobold831/Server/releases/download/redist/Xplore_4.32.00.apk",
-        "description": "上級者向けのファイルエクスプローラーです。",
-        "targetModel": ["CT3", "CTX", "CTZ"]
-      },
-      {
-        "name": "[EOS] NextPen",
-        "url": "https://github.com/s1204IT/NextPen/releases/download/v1.0.1/NextPen-v1.0.1.apk",
-        "description": "チャレンジパッド Next のペンの電池残量を表示します。",
-        "targetModel": ["CTZ"]
-      },
       {
         "name": "URL を指定してインストール",
         "url": "MYURL",
