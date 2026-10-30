@@ -5,9 +5,9 @@
     },
     "notice": [
       {
-        "title": "",
-        "message": "",
-        "url": ""
+        "title": "Dhizuku v2.13.0 のご案内",
+        "message": "Neo/Next にて Dhizuku をお使いの場合、必ず更新をおこなってください。\nデバイスオーナー関連の機能が正常に動作しない可能性があります。\n\nCT2 の場合、Dhizuku はサポートされません。オーナー権限をカスタマイズツールに移行してください。",
+        "url": "https://github.com/iamr0s/Dhizuku/releases/tag/v2.13.0"
       }
     ]
 }
